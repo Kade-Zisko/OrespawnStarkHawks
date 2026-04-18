@@ -1,8 +1,8 @@
 module main (
     input logic CLK,
-    input logic rst_n,
-    input logic [9:0] ESP32_rx_in, // input data from the esp32
-    output logic [9:0] ESP32_tx_out // output data to the esp32
+    input logic nRST,
+    input logic rxRaw, // input data from the esp32
+    output logic txOutput // output data to the esp32
 );
 
 // UART data stuff
@@ -10,15 +10,32 @@ module main (
 
 // Instantiate the data processing module
 
+logic [7:0] processedData; 
+logic [7:0] rxOutput;
+logic txReady;
+logic rxActive;
+
 dataProcess sensorLogic (
-    .clk(clk),
-    .rst_n(rst_n),
-    .ESP32_rx_in(ESP32_rx_in),
-    .ESP32_tx_out(ESP32_tx_out)
+    .CLK(CLK),
+    .nRST(nRST),
+    .rxData(rxOutput),
+    .txData(processedData),
+    .rxActive(rxActive), 
+    .txReady(txReady) 
 );
 
+// Instantiate the UART module
 
-
-// 
+UART uartInterface (
+    .CLK(CLK),
+    .nRST(nRST),
+    .rxRaw(rxRaw), 
+    .txInput(processedData),
+    .dataReady(txReady), 
+    .txReady(txReady), 
+    .txSend(txOutput), 
+    .rxOutput(rxOutput),
+    .rxActive(rxActive)
+);
 
 endmodule
