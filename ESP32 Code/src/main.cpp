@@ -1,0 +1,258 @@
+#include <Arduino.h>
+#include <DHT.h>
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
+#include "hive_inference.h"
+
+// ── Pin assignments ───────────────────────────────────────────────────────────
+#define PIN_MQ135        2   // ADC1_CH1 — gas sensor analog output
+#define PIN_OPAMP        1   // ADC1_CH0 — op-amp amplified signal
+#define PIN_DHT11        6   // DHT11 single-wire data
+#define PIN_FPGA_TX     17   // ESP32 UART TX → FPGA RX
+#define PIN_FPGA_RX     18   // ESP32 UART RX ← FPGA TX
+#define PIN_OLED_SDA     3   // OLED I2C SDA
+#define PIN_OLED_SCL    10   // OLED I2C SCL
+
+// ── FPGA UART ─────────────────────────────────────────────────────────────────
+#define FPGA_BAUD       9600
+#define FPGA_SERIAL     Serial2
+
+// ── OLED (SSD1306 128×64, I2C addr 0x3C) ─────────────────────────────────────
+#define OLED_WIDTH      128
+#define OLED_HEIGHT      64
+#define OLED_I2C_ADDR   0x3C
+
+// ── Sampling / FFT window ─────────────────────────────────────────────────────
+#define FFT_SIZE        64    // Samples per frame per channel (power of 2)
+#define SAMPLE_RATE_HZ  200   // ADC sample rate for both analog channels
+
+// ── UART frame delimiters ─────────────────────────────────────────────────────
+#define FRAME_TX_MAGIC  0xA5   // ESP32 → FPGA header byte
+#define FRAME_RX_MAGIC  0x5A   // FPGA → ESP32 header byte
+
+// ─────────────────────────────────────────────────────────────────────────────
+
+DHT             dht(PIN_DHT11, DHT11);
+Adafruit_SSD1306 oled(OLED_WIDTH, OLED_HEIGHT, &Wire, -1);
+HiveClassifier  hive;
+
+// ── Dual-channel sample buffers (filled by timer ISR) ─────────────────────────
+static uint16_t      mq135Buf[FFT_SIZE];
+static uint16_t      opampBuf[FFT_SIZE];
+static volatile int  sampleIdx  = 0;
+static volatile bool bufferFull = false;
+static portMUX_TYPE  timerMux   = portMUX_INITIALIZER_UNLOCKED;
+
+// ── Latest readings ───────────────────────────────────────────────────────────
+static float        gTemperature  = 0.0f;
+static float        gHumidity     = 0.0f;
+static const char  *gPrediction   = "WAIT";
+static float        gProb         = 0.0f;
+
+// ── ISR: captures MQ-135 and op-amp at SAMPLE_RATE_HZ ────────────────────────
+static volatile bool sampleTick = false;
+
+void IRAM_ATTR onSampleTick() {
+    sampleTick = true;
+}
+
+// ── Send sensor frame to FPGA over UART ──────────────────────────────────────
+static void sendToFPGA(const uint16_t *mq, const uint16_t *oa,
+                       float temp, float hum) {
+    uint8_t checksum = 0;
+
+    auto emit = [&](uint8_t b) {
+        FPGA_SERIAL.write(b);
+        checksum ^= b;
+    };
+    auto emitU16 = [&](uint16_t v) {
+        emit((v >> 8) & 0xFF);
+        emit(v & 0xFF);
+    };
+
+    FPGA_SERIAL.write(FRAME_TX_MAGIC);
+    checksum = 0;
+
+    emit((uint8_t)FFT_SIZE);
+    emit((uint8_t)constrain((int)roundf(temp), 0, 255));
+    emit((uint8_t)constrain((int)roundf(hum),  0, 100));
+    for (int i = 0; i < FFT_SIZE; i++) emitU16(mq[i]);
+    for (int i = 0; i < FFT_SIZE; i++) emitU16(oa[i]);
+
+    FPGA_SERIAL.write(checksum);
+}
+
+// ── Receive FFT magnitude bins from FPGA over UART ───────────────────────────
+static bool receiveFromFPGA(uint16_t *outBuf) {
+    const unsigned long deadline = millis() + 500;
+
+    while (FPGA_SERIAL.available() < 1) {
+        if (millis() > deadline) return false;
+    }
+    if (FPGA_SERIAL.read() != FRAME_RX_MAGIC) return false;
+
+    const int payloadLen = 1 + FFT_SIZE * 2 + 1;
+    while (FPGA_SERIAL.available() < payloadLen) {
+        if (millis() > deadline) return false;
+    }
+
+    uint8_t checksum = 0;
+    auto recv = [&]() -> uint8_t {
+        uint8_t b = (uint8_t)FPGA_SERIAL.read();
+        checksum ^= b;
+        return b;
+    };
+
+    uint8_t count = recv();
+    if (count != FFT_SIZE) {
+        for (int i = 0; i < (int)count * 2 + 1; i++) FPGA_SERIAL.read();
+        return false;
+    }
+
+    for (int i = 0; i < FFT_SIZE; i++) {
+        uint8_t hi = recv();
+        uint8_t lo = recv();
+        outBuf[i]  = ((uint16_t)hi << 8) | lo;
+    }
+
+    uint8_t rxCheck = (uint8_t)FPGA_SERIAL.read();
+    return rxCheck == checksum;
+}
+
+// ── Refresh OLED ──────────────────────────────────────────────────────────────
+static void updateOLED(uint16_t mq135Raw, uint16_t opampRaw,
+                       float temp, float hum, bool fpgaOk) {
+    oled.clearDisplay();
+    oled.setCursor(0, 0);
+    oled.print("T:"); oled.print(temp, 1); oled.print("C ");
+    oled.print("H:"); oled.print(hum, 0);  oled.println("%");
+    oled.print("MQ135: ");                  oled.println(mq135Raw);
+    oled.print("OpAmp: ");                  oled.println(opampRaw);
+    oled.print("FPGA:  ");                  oled.println(fpgaOk ? "OK" : "ERR");
+
+    // Prediction row
+    if (hive.baselineReady()) {
+        oled.print(gPrediction);
+        oled.print(" ");
+        oled.print(gProb * 100, 0);
+        oled.println("%");
+    } else {
+        oled.print("Cal:");
+        oled.print(hive.baselineCount());
+        oled.print("/");
+        oled.println(HVM2_BASELINE_N);
+    }
+
+    oled.display();
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+void setup() {
+    Serial.begin(115200);
+    while (!Serial && millis() < 5000);
+
+    analogReadResolution(12);
+    analogSetAttenuation(ADC_11db);
+
+    dht.begin();
+    hive.begin();
+
+    FPGA_SERIAL.begin(FPGA_BAUD, SERIAL_8N1, PIN_FPGA_RX, PIN_FPGA_TX);
+
+    Wire.begin(PIN_OLED_SDA, PIN_OLED_SCL);
+    if (!oled.begin(SSD1306_SWITCHCAPVCC, OLED_I2C_ADDR)) {
+        Serial.println("OLED init failed — check wiring.");
+    }
+    oled.setTextSize(1);
+    oled.setTextColor(SSD1306_WHITE);
+    oled.clearDisplay();
+    oled.display();
+
+    // Start hardware timer for ADC sampling
+    hw_timer_t *timer = timerBegin(0, 80, true);
+    timerAttachInterrupt(timer, &onSampleTick, true);
+    timerAlarmWrite(timer, 1000000UL / SAMPLE_RATE_HZ, true);
+    timerAlarmEnable(timer);
+
+    Serial.println("ESP32 sensor acquisition initialized.");
+}
+
+void loop() {
+    static unsigned long lastDHTms      = 0;
+    static unsigned long lastInferenceMs = 0;
+
+    // Read DHT11 every 2 seconds for display freshness
+    if (millis() - lastDHTms >= 2000) {
+        float h = dht.readHumidity();
+        float t = dht.readTemperature();
+        if (!isnan(h) && !isnan(t)) {
+            gTemperature = t;
+            gHumidity    = h;
+        }
+        lastDHTms = millis();
+    }
+
+    // Run inference once per HVM2_SAMPLE_MS (default 1 hour = 3600000 ms).
+    // Lower HVM2_SAMPLE_MS in hive_inference.h for bench testing.
+    if (millis() - lastInferenceMs >= HVM2_SAMPLE_MS) {
+        lastInferenceMs = millis();
+        if (!isnan(gHumidity) && !isnan(gTemperature)) {
+            gPrediction = hive.infer(gTemperature, gHumidity, &gProb);
+            Serial.printf("[hive] %s  p=%.4f  T=%.1f  H=%.0f\n",
+                          gPrediction, gProb, gTemperature, gHumidity);
+        }
+    }
+
+    // Check if timer ISR has signaled a new sample is ready
+    if (sampleTick) {
+        sampleTick = false;
+        if (!bufferFull) {
+            mq135Buf[sampleIdx] = (uint16_t)analogRead(PIN_MQ135);
+            opampBuf[sampleIdx] = (uint16_t)analogRead(PIN_OPAMP);
+            if (++sampleIdx >= FFT_SIZE) {
+                bufferFull = true;
+                sampleIdx  = 0;
+            }
+        }
+    }
+
+    // Periodic heartbeat every second
+    static unsigned long lastHeartbeat = 0;
+    if (millis() - lastHeartbeat >= 1000) {
+        Serial.printf("loop alive — T:%.1f H:%.0f bufferFull:%d\n",
+                      gTemperature, gHumidity, (int)bufferFull);
+        lastHeartbeat = millis();
+    }
+
+    if (!bufferFull) return;
+    bufferFull = false;
+
+    uint16_t localMQ[FFT_SIZE], localOA[FFT_SIZE];
+    portENTER_CRITICAL(&timerMux);
+    memcpy(localMQ, mq135Buf, sizeof(mq135Buf));
+    memcpy(localOA, opampBuf, sizeof(opampBuf));
+    portEXIT_CRITICAL(&timerMux);
+
+    static uint16_t fftResult[FFT_SIZE];
+    bool fpgaOk;
+
+#ifdef NO_FPGA
+    static uint16_t fpgaCounter = 0;
+    for (int i = 0; i < FFT_SIZE; i++) fftResult[i] = fpgaCounter;
+    fpgaCounter = (fpgaCounter == 0 ? 1 : (fpgaCounter * 2) & 0x3FF);
+    Serial.printf("FPGA counter: %u  MIC(opamp): %u\n", fpgaCounter, localOA[FFT_SIZE - 1]);
+    fpgaOk = true;
+#else
+    sendToFPGA(localMQ, localOA, gTemperature, gHumidity);
+    fpgaOk = receiveFromFPGA(fftResult);
+    if (!fpgaOk) Serial.println("FPGA RX error or timeout.");
+#endif
+
+    updateOLED(localMQ[FFT_SIZE - 1], localOA[FFT_SIZE - 1],
+               gTemperature, gHumidity, fpgaOk);
+
+    if (fpgaOk) {
+        // TODO: further processing of fftResult
+    }
+}

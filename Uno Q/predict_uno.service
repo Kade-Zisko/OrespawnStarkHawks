@@ -1,0 +1,14 @@
+[Unit]
+Description=Uno Q — HiveNetHeavy live inference
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/home/user/predict_uno
+ExecStart=/usr/bin/python3 /home/user/predict_uno/main.py --port /dev/ttyHS0 --hive 0
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
