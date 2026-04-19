@@ -1,0 +1,85 @@
+{
+  "model": "HiveNet MLP  14 \u2192 32 \u2192 16 \u2192 1",
+  "architecture": {
+    "layers": [
+      14,
+      32,
+      16,
+      1
+    ],
+    "activation": "ReLU",
+    "output": "Sigmoid"
+  },
+  "training": {
+    "epochs": 50,
+    "lr": 0.001,
+    "batch_size": 512,
+    "optimizer": "Adam",
+    "class_balance": "WeightedRandomSampler"
+  },
+  "dataset": {
+    "sources": [
+      "urban",
+      "mspb",
+      "german"
+    ],
+    "n_train": 193153,
+    "n_test": 47440,
+    "n_features": 14,
+    "n_hives_train": 85,
+    "n_hives_test": 20,
+    "label_criteria": "UrBAN: QNS or fob<12 | MSPB: hub-level varroa>2 or winter death | German: colony died vs survived",
+    "normalisation": "per-hive z-score (first-21-day baseline) + StandardScaler"
+  },
+  "feature_cols": [
+    "temperature",
+    "humidity",
+    "temp_mean_24h",
+    "temp_std_24h",
+    "temp_min_24h",
+    "temp_max_24h",
+    "temp_range_24h",
+    "hum_mean_24h",
+    "hum_std_24h",
+    "hum_min_24h",
+    "hum_max_24h",
+    "hum_range_24h",
+    "temp_trend_6h",
+    "hum_trend_6h"
+  ],
+  "cv_results_on_train": {
+    "accuracy": 0.846748332103734,
+    "f1_weighted": 0.855555323079621,
+    "roc_auc": 0.9218264552376022
+  },
+  "test_results": {
+    "roc_auc": 0.8999398727273454,
+    "classification_report": {
+      "healthy": {
+        "precision": 0.9590435675517089,
+        "recall": 0.8250006309466724,
+        "f1-score": 0.8869864872198404,
+        "support": 39623.0
+      },
+      "stressed": {
+        "precision": 0.48079371022089107,
+        "recall": 0.8214148650377383,
+        "f1-score": 0.6065558284526733,
+        "support": 7817.0
+      },
+      "accuracy": 0.8244097807757167,
+      "macro avg": {
+        "precision": 0.7199186388863,
+        "recall": 0.8232077479922053,
+        "f1-score": 0.7467711578362568,
+        "support": 47440.0
+      },
+      "weighted avg": {
+        "precision": 0.8802392013047654,
+        "recall": 0.8244097807757167,
+        "f1-score": 0.8407780879874851,
+        "support": 47440.0
+      }
+    }
+  }
+}

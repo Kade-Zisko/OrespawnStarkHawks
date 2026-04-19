@@ -1,0 +1,7628 @@
+{
+  "kaggle_1": {
+    "temperature": {
+      "mean": 24.31451612903226,
+      "std": 4.123089593353212
+    },
+    "humidity": {
+      "mean": 70.02822580645162,
+      "std": 16.231364146199674
+    },
+    "temp_mean_24h": {
+      "mean": 20.186537682749467,
+      "std": 9.520940711916039
+    },
+    "temp_std_24h": {
+      "mean": 3.3364315467394836,
+      "std": 1.8977340977196646
+    },
+    "temp_min_24h": {
+      "mean": 15.419354838709678,
+      "std": 7.236175937599516
+    },
+    "temp_max_24h": {
+      "mean": 26.495967741935484,
+      "std": 12.802767049747091
+    },
+    "temp_range_24h": {
+      "mean": 11.076612903225806,
+      "std": 6.15702795653355
+    },
+    "hum_mean_24h": {
+      "mean": 56.388141569396474,
+      "std": 26.703467563887227
+    },
+    "hum_std_24h": {
+      "mean": 13.24922765351476,
+      "std": 7.185794100285984
+    },
+    "hum_min_24h": {
+      "mean": 34.58870967741935,
+      "std": 18.783390856771987
+    },
+    "hum_max_24h": {
+      "mean": 73.96370967741936,
+      "std": 34.63761005431793
+    },
+    "hum_range_24h": {
+      "mean": 39.375,
+      "std": 20.795193230057034
+    },
+    "temp_trend_6h": {
+      "mean": -0.0846774193548387,
+      "std": 5.521556776715978
+    },
+    "hum_trend_6h": {
+      "mean": 0.8991935483870968,
+      "std": 21.5025474890605
+    },
+    "co2": {
+      "mean": 817.7540322580645,
+      "std": 522.8775530028938
+    },
+    "co2_mean_24h": {
+      "mean": 634.7542847897892,
+      "std": 309.38487116474533
+    },
+    "co2_std_24h": {
+      "mean": 406.44499538034745,
+      "std": 223.83584915428196
+    },
+    "co2_min_24h": {
+      "mean": 329.03225806451616,
+      "std": 154.0567244627595
+    },
+    "co2_max_24h": {
+      "mean": 1632.5443548387098,
+      "std": 872.8113629270044
+    },
+    "co2_trend_6h": {
+      "mean": 11.411290322580646,
+      "std": 766.157608952417
+    }
+  },
+  "mspb_200366": {
+    "temperature": {
+      "mean": 25.91981818181818,
+      "std": 1.0
+    },
+    "humidity": {
+      "mean": 16.668090909090907,
+      "std": 1.0
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200433": {
+    "temperature": {
+      "mean": 23.33642543859649,
+      "std": 0.3349080331354614
+    },
+    "humidity": {
+      "mean": 16.82813596491228,
+      "std": 1.8325406207168806
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200514": {
+    "temperature": {
+      "mean": 25.196702127659574,
+      "std": 1.0
+    },
+    "humidity": {
+      "mean": 15.84691489361702,
+      "std": 1.0
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200517": {
+    "temperature": {
+      "mean": 25.20615511551155,
+      "std": 0.4801091686254399
+    },
+    "humidity": {
+      "mean": 17.04841584158416,
+      "std": 0.4689308138997521
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200596": {
+    "temperature": {
+      "mean": 24.5675,
+      "std": 0.017677669529662685
+    },
+    "humidity": {
+      "mean": 20.47833333333333,
+      "std": 0.24277332820737907
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200597": {
+    "temperature": {
+      "mean": 25.10087378640777,
+      "std": 1.0
+    },
+    "humidity": {
+      "mean": 17.140873786407766,
+      "std": 1.0
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200599": {
+    "temperature": {
+      "mean": 19.595,
+      "std": 1.0
+    },
+    "humidity": {
+      "mean": 38.58,
+      "std": 1.0
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200602": {
+    "temperature": {
+      "mean": 19.25,
+      "std": 0.5067950769295212
+    },
+    "humidity": {
+      "mean": 38.625,
+      "std": 0.12327307086302386
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_trend_6h": {
+      "mean": -0.4299999999999997,
+      "std": 0.5117409012381164
+    },
+    "hum_trend_6h": {
+      "mean": 0.08840909090909124,
+      "std": 0.11023425469921327
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200617": {
+    "temperature": {
+      "mean": 19.09,
+      "std": 1.0
+    },
+    "humidity": {
+      "mean": 38.56,
+      "std": 1.0
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200659": {
+    "temperature": {
+      "mean": 18.99,
+      "std": 1.0
+    },
+    "humidity": {
+      "mean": 37.17,
+      "std": 1.0
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200661": {
+    "temperature": {
+      "mean": 24.4255,
+      "std": 0.05486916255967512
+    },
+    "humidity": {
+      "mean": 17.7905,
+      "std": 1.0639730964643788
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200684": {
+    "temperature": {
+      "mean": 18.66,
+      "std": 1.0
+    },
+    "humidity": {
+      "mean": 37.84,
+      "std": 1.0
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200712": {
+    "temperature": {
+      "mean": 24.854346963175516,
+      "std": 0.6566857729695713
+    },
+    "humidity": {
+      "mean": 16.42288450502152,
+      "std": 1.0000123231627323
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200725": {
+    "temperature": {
+      "mean": 24.54,
+      "std": 0.12020815280171429
+    },
+    "humidity": {
+      "mean": 20.625,
+      "std": 0.24041630560342858
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200726": {
+    "temperature": {
+      "mean": 24.625,
+      "std": 0.016499158227686175
+    },
+    "humidity": {
+      "mean": 18.556666666666665,
+      "std": 0.3676955262170044
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200752": {
+    "temperature": {
+      "mean": 24.43027777777778,
+      "std": 0.2956000645266323
+    },
+    "humidity": {
+      "mean": 17.1975,
+      "std": 0.5349474273234714
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200763": {
+    "temperature": {
+      "mean": 24.610833333333332,
+      "std": 0.3073384851339717
+    },
+    "humidity": {
+      "mean": 18.53106770833333,
+      "std": 1.2751732089336396
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200828": {
+    "temperature": {
+      "mean": 18.33,
+      "std": 1.0
+    },
+    "humidity": {
+      "mean": 38.13,
+      "std": 1.0
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200894": {
+    "temperature": {
+      "mean": 24.967835040809387,
+      "std": 0.2949067384403242
+    },
+    "humidity": {
+      "mean": 18.860659858017343,
+      "std": 1.299602463053896
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200913": {
+    "temperature": {
+      "mean": 24.742626262626263,
+      "std": 1.0
+    },
+    "humidity": {
+      "mean": 17.14040404040404,
+      "std": 1.0
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_200957": {
+    "temperature": {
+      "mean": 24.821248275946996,
+      "std": 0.15284991820265834
+    },
+    "humidity": {
+      "mean": 18.545340315747993,
+      "std": 1.0349006049862006
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_201004": {
+    "temperature": {
+      "mean": 24.838502739726028,
+      "std": 0.3206618359521703
+    },
+    "humidity": {
+      "mean": 20.404401369863013,
+      "std": 1.0720897911460612
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_201192": {
+    "temperature": {
+      "mean": 24.606921160348815,
+      "std": 0.2436051733297556
+    },
+    "humidity": {
+      "mean": 18.788417274722665,
+      "std": 0.9782557364184635
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_201325": {
+    "temperature": {
+      "mean": 25.530896063683894,
+      "std": 0.05459228964690809
+    },
+    "humidity": {
+      "mean": 18.0263545684409,
+      "std": 0.90876721428824
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_201382": {
+    "temperature": {
+      "mean": 18.95,
+      "std": 1.0
+    },
+    "humidity": {
+      "mean": 37.12,
+      "std": 1.0
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_201700": {
+    "temperature": {
+      "mean": 18.83,
+      "std": 1.0
+    },
+    "humidity": {
+      "mean": 35.555,
+      "std": 1.0
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_201780": {
+    "temperature": {
+      "mean": 19.38,
+      "std": 1.0
+    },
+    "humidity": {
+      "mean": 38.52,
+      "std": 1.0
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202039": {
+    "temperature": {
+      "mean": 34.84554732957013,
+      "std": 0.8784382972891689
+    },
+    "humidity": {
+      "mean": 57.08052413518599,
+      "std": 9.905330050465741
+    },
+    "temp_mean_24h": {
+      "mean": 33.656312395080164,
+      "std": 6.285965323446066
+    },
+    "temp_std_24h": {
+      "mean": 0.40283686253551665,
+      "std": 0.655593261936264
+    },
+    "temp_min_24h": {
+      "mean": 32.85418034447822,
+      "std": 6.346721841566144
+    },
+    "temp_max_24h": {
+      "mean": 34.268389274858876,
+      "std": 6.408235527505669
+    },
+    "temp_range_24h": {
+      "mean": 1.4142089303806626,
+      "std": 2.136710039123755
+    },
+    "hum_mean_24h": {
+      "mean": 54.87512491385389,
+      "std": 13.913209953472608
+    },
+    "hum_std_24h": {
+      "mean": 1.6008026017295864,
+      "std": 1.6842546950102877
+    },
+    "hum_min_24h": {
+      "mean": 51.946991605152704,
+      "std": 12.961060086598618
+    },
+    "hum_max_24h": {
+      "mean": 57.48296200607902,
+      "std": 15.202169509244195
+    },
+    "hum_range_24h": {
+      "mean": 5.5359704009263275,
+      "std": 5.693745905966577
+    },
+    "temp_trend_6h": {
+      "mean": -0.026775582573454946,
+      "std": 1.1056551421352225
+    },
+    "hum_trend_6h": {
+      "mean": 0.3789766970618035,
+      "std": 2.6327800928806933
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202040": {
+    "temperature": {
+      "mean": 29.770547333047332,
+      "std": 3.4972188253954575
+    },
+    "humidity": {
+      "mean": 56.88338002288002,
+      "std": 8.782332914564183
+    },
+    "temp_mean_24h": {
+      "mean": 28.700324766445732,
+      "std": 5.781747848637568
+    },
+    "temp_std_24h": {
+      "mean": 2.4728892669477522,
+      "std": 0.9086474574116742
+    },
+    "temp_min_24h": {
+      "mean": 25.109304304304306,
+      "std": 5.368052462263068
+    },
+    "temp_max_24h": {
+      "mean": 32.440444444444445,
+      "std": 6.2609629230570905
+    },
+    "temp_range_24h": {
+      "mean": 7.33114014014014,
+      "std": 2.668419293229288
+    },
+    "hum_mean_24h": {
+      "mean": 55.358160493822126,
+      "std": 12.332658540550113
+    },
+    "hum_std_24h": {
+      "mean": 4.281756658508165,
+      "std": 3.224278013714365
+    },
+    "hum_min_24h": {
+      "mean": 48.25710603460603,
+      "std": 10.011596644542434
+    },
+    "hum_max_24h": {
+      "mean": 61.73814564564564,
+      "std": 14.778311714544875
+    },
+    "hum_range_24h": {
+      "mean": 13.481039611039613,
+      "std": 8.948841377163008
+    },
+    "temp_trend_6h": {
+      "mean": -0.05920720720720723,
+      "std": 3.7167315678277135
+    },
+    "hum_trend_6h": {
+      "mean": 0.08356756756756749,
+      "std": 6.857985918978744
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202043": {
+    "temperature": {
+      "mean": 33.34609924275521,
+      "std": 2.4040437055993764
+    },
+    "humidity": {
+      "mean": 53.873640599970884,
+      "std": 6.516317549866479
+    },
+    "temp_mean_24h": {
+      "mean": 32.149541402433535,
+      "std": 6.162955774115092
+    },
+    "temp_std_24h": {
+      "mean": 1.5367687458786832,
+      "std": 1.24545827613656
+    },
+    "temp_min_24h": {
+      "mean": 29.953453109072367,
+      "std": 6.301197256288264
+    },
+    "temp_max_24h": {
+      "mean": 34.48320285423038,
+      "std": 6.505972909733022
+    },
+    "temp_range_24h": {
+      "mean": 4.529749745158003,
+      "std": 3.584017190817509
+    },
+    "hum_mean_24h": {
+      "mean": 52.25210146715588,
+      "std": 11.376223846933021
+    },
+    "hum_std_24h": {
+      "mean": 2.256990361534784,
+      "std": 1.716814735653698
+    },
+    "hum_min_24h": {
+      "mean": 48.709984709480125,
+      "std": 10.323989400718729
+    },
+    "hum_max_24h": {
+      "mean": 55.56504587155965,
+      "std": 12.822752710178749
+    },
+    "hum_range_24h": {
+      "mean": 6.855061162079509,
+      "std": 5.514484358080231
+    },
+    "temp_trend_6h": {
+      "mean": 0.02404689092762485,
+      "std": 2.6794390378085144
+    },
+    "hum_trend_6h": {
+      "mean": -0.07928644240570847,
+      "std": 3.6253603734492144
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202045": {
+    "temperature": {
+      "mean": 29.69270741213152,
+      "std": 2.965236681591759
+    },
+    "humidity": {
+      "mean": 67.20131235827664,
+      "std": 6.025591811658365
+    },
+    "temp_mean_24h": {
+      "mean": 28.728107306897748,
+      "std": 5.497164534403419
+    },
+    "temp_std_24h": {
+      "mean": 2.4692829809313954,
+      "std": 0.6894415905577994
+    },
+    "temp_min_24h": {
+      "mean": 25.21831349206349,
+      "std": 4.88121905616128
+    },
+    "temp_max_24h": {
+      "mean": 32.67588187358277,
+      "std": 6.262192406083733
+    },
+    "temp_range_24h": {
+      "mean": 7.457568381519275,
+      "std": 2.3002710381455835
+    },
+    "hum_mean_24h": {
+      "mean": 65.05844057430443,
+      "std": 12.38108725266677
+    },
+    "hum_std_24h": {
+      "mean": 4.7207132502887745,
+      "std": 1.7120638375683748
+    },
+    "hum_min_24h": {
+      "mean": 57.50779761904763,
+      "std": 11.536052419081754
+    },
+    "hum_max_24h": {
+      "mean": 71.94695436507936,
+      "std": 13.453860775827781
+    },
+    "hum_range_24h": {
+      "mean": 14.439156746031745,
+      "std": 4.793555406071649
+    },
+    "temp_trend_6h": {
+      "mean": -0.12368551587301588,
+      "std": 3.6422196236927564
+    },
+    "hum_trend_6h": {
+      "mean": 0.281577380952381,
+      "std": 7.118362022063079
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202046": {
+    "temperature": {
+      "mean": 33.84667227319062,
+      "std": 2.4517288860227
+    },
+    "humidity": {
+      "mean": 53.43462640163099,
+      "std": 3.3986305919399165
+    },
+    "temp_mean_24h": {
+      "mean": 32.64744903453594,
+      "std": 6.259066531509146
+    },
+    "temp_std_24h": {
+      "mean": 1.5557051014421646,
+      "std": 1.2989845066062613
+    },
+    "temp_min_24h": {
+      "mean": 30.403341488277267,
+      "std": 6.386021617134886
+    },
+    "temp_max_24h": {
+      "mean": 35.183358817533126,
+      "std": 6.6974389395657985
+    },
+    "temp_range_24h": {
+      "mean": 4.780017329255862,
+      "std": 3.812087914641498
+    },
+    "hum_mean_24h": {
+      "mean": 51.75901501990056,
+      "std": 10.138520419323385
+    },
+    "hum_std_24h": {
+      "mean": 1.0852625894504422,
+      "std": 0.9293391551524653
+    },
+    "hum_min_24h": {
+      "mean": 49.80639194699287,
+      "std": 9.658480824626931
+    },
+    "hum_max_24h": {
+      "mean": 53.38677370030582,
+      "std": 10.816694187976186
+    },
+    "hum_range_24h": {
+      "mean": 3.5803817533129467,
+      "std": 3.9390735135057278
+    },
+    "temp_trend_6h": {
+      "mean": -0.010662589194699302,
+      "std": 2.815913838536925
+    },
+    "hum_trend_6h": {
+      "mean": -0.1228037716615698,
+      "std": 1.851272113608859
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202047": {
+    "temperature": {
+      "mean": 29.856623617693526,
+      "std": 3.1032139520235247
+    },
+    "humidity": {
+      "mean": 53.68985900473933,
+      "std": 6.529704217954599
+    },
+    "temp_mean_24h": {
+      "mean": 28.379834375804318,
+      "std": 6.790600449206191
+    },
+    "temp_std_24h": {
+      "mean": 2.7562306878008047,
+      "std": 0.8209265952095502
+    },
+    "temp_min_24h": {
+      "mean": 24.57841232227488,
+      "std": 5.88082752240094
+    },
+    "temp_max_24h": {
+      "mean": 32.66206161137441,
+      "std": 7.802032886162936
+    },
+    "temp_range_24h": {
+      "mean": 8.083649289099526,
+      "std": 2.3803524254903627
+    },
+    "hum_mean_24h": {
+      "mean": 50.73071488453632,
+      "std": 12.521994632112253
+    },
+    "hum_std_24h": {
+      "mean": 5.037298843794723,
+      "std": 1.6697354978888623
+    },
+    "hum_min_24h": {
+      "mean": 42.896883886255914,
+      "std": 10.585691233941327
+    },
+    "hum_max_24h": {
+      "mean": 57.99451382306477,
+      "std": 14.213138591237687
+    },
+    "hum_range_24h": {
+      "mean": 15.097629936808849,
+      "std": 4.538320370254739
+    },
+    "temp_trend_6h": {
+      "mean": -0.09746445497630331,
+      "std": 4.013999926709935
+    },
+    "hum_trend_6h": {
+      "mean": 0.056137440758293834,
+      "std": 7.1669189099298105
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202048": {
+    "temperature": {
+      "mean": 29.829150957531482,
+      "std": 3.5907961173958665
+    },
+    "humidity": {
+      "mean": 58.85724703844174,
+      "std": 3.186115732814833
+    },
+    "temp_mean_24h": {
+      "mean": 28.858507736861995,
+      "std": 5.48252670477358
+    },
+    "temp_std_24h": {
+      "mean": 3.167478867476392,
+      "std": 0.9344224374584365
+    },
+    "temp_min_24h": {
+      "mean": 24.6555153111392,
+      "std": 4.77177245225437
+    },
+    "temp_max_24h": {
+      "mean": 33.608881022615535,
+      "std": 6.379906754776443
+    },
+    "temp_range_24h": {
+      "mean": 8.953365711476332,
+      "std": 2.355973798091644
+    },
+    "hum_mean_24h": {
+      "mean": 57.03407425940219,
+      "std": 10.655121046678444
+    },
+    "hum_std_24h": {
+      "mean": 2.2746458001278254,
+      "std": 0.9003281472714212
+    },
+    "hum_min_24h": {
+      "mean": 53.46121779744345,
+      "std": 10.170922103271163
+    },
+    "hum_max_24h": {
+      "mean": 60.2412820854989,
+      "std": 11.206971598894606
+    },
+    "hum_range_24h": {
+      "mean": 6.780064288055438,
+      "std": 2.580909133959641
+    },
+    "temp_trend_6h": {
+      "mean": -0.056010324483775804,
+      "std": 4.646268108488677
+    },
+    "hum_trend_6h": {
+      "mean": -0.03987463126843653,
+      "std": 3.186153448745433
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202049": {
+    "temperature": {
+      "mean": 32.56870833333333,
+      "std": 3.7646157092664394
+    },
+    "humidity": {
+      "mean": 55.59350914634147,
+      "std": 13.007802592391261
+    },
+    "temp_mean_24h": {
+      "mean": 31.36776413834395,
+      "std": 6.140523342534231
+    },
+    "temp_std_24h": {
+      "mean": 2.568541883678516,
+      "std": 2.121942007075619
+    },
+    "temp_min_24h": {
+      "mean": 27.743010162601628,
+      "std": 6.687181238825173
+    },
+    "temp_max_24h": {
+      "mean": 35.02699949186992,
+      "std": 6.747058937447145
+    },
+    "temp_range_24h": {
+      "mean": 7.283989329268294,
+      "std": 5.746304283664416
+    },
+    "hum_mean_24h": {
+      "mean": 54.27813506491829,
+      "std": 15.996569598553336
+    },
+    "hum_std_24h": {
+      "mean": 2.7376216630109007,
+      "std": 2.088170349974914
+    },
+    "hum_min_24h": {
+      "mean": 49.39337855691057,
+      "std": 13.299192119907364
+    },
+    "hum_max_24h": {
+      "mean": 58.26309146341464,
+      "std": 17.8982651124139
+    },
+    "hum_range_24h": {
+      "mean": 8.869712906504066,
+      "std": 6.758868493172363
+    },
+    "temp_trend_6h": {
+      "mean": -0.07376524390243899,
+      "std": 4.607709040146264
+    },
+    "hum_trend_6h": {
+      "mean": -0.39376524390243905,
+      "std": 4.367250650338972
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202050": {
+    "temperature": {
+      "mean": 34.809469807802635,
+      "std": 1.007966689944087
+    },
+    "humidity": {
+      "mean": 53.43595410212278,
+      "std": 3.3741959105398935
+    },
+    "temp_mean_24h": {
+      "mean": 33.63517172154681,
+      "std": 6.250116755837345
+    },
+    "temp_std_24h": {
+      "mean": 0.5140004840068508,
+      "std": 0.7802241140733673
+    },
+    "temp_min_24h": {
+      "mean": 32.43803162650603,
+      "std": 6.358721500949718
+    },
+    "temp_max_24h": {
+      "mean": 34.35687449799197,
+      "std": 6.408238001167154
+    },
+    "temp_range_24h": {
+      "mean": 1.9188428714859433,
+      "std": 2.6546162362050345
+    },
+    "hum_mean_24h": {
+      "mean": 51.5174972742401,
+      "std": 9.77765283727056
+    },
+    "hum_std_24h": {
+      "mean": 2.1968507232039336,
+      "std": 1.159955731005486
+    },
+    "hum_min_24h": {
+      "mean": 47.855295682730926,
+      "std": 9.380673054756057
+    },
+    "hum_max_24h": {
+      "mean": 55.24762636259323,
+      "std": 10.505112408790259
+    },
+    "hum_range_24h": {
+      "mean": 7.392330679862306,
+      "std": 3.8956140394475858
+    },
+    "temp_trend_6h": {
+      "mean": -0.03596364027538725,
+      "std": 1.4721266126503967
+    },
+    "hum_trend_6h": {
+      "mean": 0.19939264199655768,
+      "std": 3.564853426281654
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202051": {
+    "temperature": {
+      "mean": 35.227144860533215,
+      "std": 0.6379531659844035
+    },
+    "humidity": {
+      "mean": 53.290024348898136,
+      "std": 3.5315146900796575
+    },
+    "temp_mean_24h": {
+      "mean": 33.94929814989846,
+      "std": 6.540181933276952
+    },
+    "temp_std_24h": {
+      "mean": 0.28191471958087044,
+      "std": 0.5187089714212545
+    },
+    "temp_min_24h": {
+      "mean": 33.425697411003235,
+      "std": 6.549296418159386
+    },
+    "temp_max_24h": {
+      "mean": 34.38749730312837,
+      "std": 6.639622113953489
+    },
+    "temp_range_24h": {
+      "mean": 0.9617998921251336,
+      "std": 1.6585103728063737
+    },
+    "hum_mean_24h": {
+      "mean": 51.243887366829924,
+      "std": 10.393331588591698
+    },
+    "hum_std_24h": {
+      "mean": 0.6285173040678431,
+      "std": 0.7854761862757459
+    },
+    "hum_min_24h": {
+      "mean": 50.22401672060411,
+      "std": 10.24174881805263
+    },
+    "hum_max_24h": {
+      "mean": 52.45208090614886,
+      "std": 10.762634338503174
+    },
+    "hum_range_24h": {
+      "mean": 2.2280641855447696,
+      "std": 3.064811096832678
+    },
+    "temp_trend_6h": {
+      "mean": -0.01729072276159652,
+      "std": 0.7377635651610394
+    },
+    "hum_trend_6h": {
+      "mean": 0.11938025889967635,
+      "std": 1.160290027102337
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202052": {
+    "temperature": {
+      "mean": 34.351684426229504,
+      "std": 1.1730403172436554
+    },
+    "humidity": {
+      "mean": 47.91387841530055,
+      "std": 4.079443738040647
+    },
+    "temp_mean_24h": {
+      "mean": 32.75341679197956,
+      "std": 7.181156491926598
+    },
+    "temp_std_24h": {
+      "mean": 0.5185872316181205,
+      "std": 0.6113349448823279
+    },
+    "temp_min_24h": {
+      "mean": 31.500697794691636,
+      "std": 7.211643235838576
+    },
+    "temp_max_24h": {
+      "mean": 33.51480191256831,
+      "std": 7.333441628715646
+    },
+    "temp_range_24h": {
+      "mean": 2.0141041178766588,
+      "std": 2.455748893032196
+    },
+    "hum_mean_24h": {
+      "mean": 45.56771014981759,
+      "std": 10.517147812257333
+    },
+    "hum_std_24h": {
+      "mean": 1.2818262859118756,
+      "std": 1.4240248670221647
+    },
+    "hum_min_24h": {
+      "mean": 43.59825000000001,
+      "std": 10.275071605684474
+    },
+    "hum_max_24h": {
+      "mean": 47.954876561280244,
+      "std": 11.387859570338346
+    },
+    "hum_range_24h": {
+      "mean": 4.356626561280248,
+      "std": 5.007132004209763
+    },
+    "temp_trend_6h": {
+      "mean": 0.022948770491803275,
+      "std": 1.169967536453216
+    },
+    "hum_trend_6h": {
+      "mean": -0.0011871584699453938,
+      "std": 2.3873420955083335
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202053": {
+    "temperature": {
+      "mean": 34.616762267711955,
+      "std": 1.027792719605327
+    },
+    "humidity": {
+      "mean": 70.49249782229965,
+      "std": 11.33936923150369
+    },
+    "temp_mean_24h": {
+      "mean": 33.43549372451528,
+      "std": 6.249870398515075
+    },
+    "temp_std_24h": {
+      "mean": 0.48967952241232093,
+      "std": 0.8317146306603028
+    },
+    "temp_min_24h": {
+      "mean": 32.454181402439026,
+      "std": 6.352897575224572
+    },
+    "temp_max_24h": {
+      "mean": 34.18135518292682,
+      "std": 6.449352007670892
+    },
+    "temp_range_24h": {
+      "mean": 1.7271737804878033,
+      "std": 2.7353390520743215
+    },
+    "hum_mean_24h": {
+      "mean": 68.48762442286605,
+      "std": 16.654369573147942
+    },
+    "hum_std_24h": {
+      "mean": 2.869126670144596,
+      "std": 1.4526244905691863
+    },
+    "hum_min_24h": {
+      "mean": 62.61661701509873,
+      "std": 15.829012107374375
+    },
+    "hum_max_24h": {
+      "mean": 73.04464329268292,
+      "std": 16.621343908167812
+    },
+    "hum_range_24h": {
+      "mean": 10.428026277584204,
+      "std": 4.613117465022433
+    },
+    "temp_trend_6h": {
+      "mean": 0.0052515243902439245,
+      "std": 1.1154881303840058
+    },
+    "hum_trend_6h": {
+      "mean": 0.10881097560975618,
+      "std": 4.116208668531735
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202054": {
+    "temperature": {
+      "mean": 30.01084003663004,
+      "std": 3.086318384367077
+    },
+    "humidity": {
+      "mean": 64.17467798534798,
+      "std": 7.81581426449851
+    },
+    "temp_mean_24h": {
+      "mean": 29.004900700700123,
+      "std": 5.730476045075765
+    },
+    "temp_std_24h": {
+      "mean": 2.371058256071043,
+      "std": 0.7428259046470326
+    },
+    "temp_min_24h": {
+      "mean": 25.39390637362638,
+      "std": 5.032267142161072
+    },
+    "temp_max_24h": {
+      "mean": 32.843403076923074,
+      "std": 6.64974993352531
+    },
+    "temp_range_24h": {
+      "mean": 7.449496703296704,
+      "std": 2.4021866237051044
+    },
+    "hum_mean_24h": {
+      "mean": 61.93289052283172,
+      "std": 13.053367462575107
+    },
+    "hum_std_24h": {
+      "mean": 4.649329412717178,
+      "std": 1.6959856808942164
+    },
+    "hum_min_24h": {
+      "mean": 54.37493717948718,
+      "std": 13.104481026802663
+    },
+    "hum_max_24h": {
+      "mean": 69.07279589743591,
+      "std": 14.027255613330727
+    },
+    "hum_range_24h": {
+      "mean": 14.697858717948716,
+      "std": 5.852823888126521
+    },
+    "temp_trend_6h": {
+      "mean": -0.08018846153846157,
+      "std": 3.4505708427803796
+    },
+    "hum_trend_6h": {
+      "mean": 0.19312948717948722,
+      "std": 6.7098845520960735
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202055": {
+    "temperature": {
+      "mean": 33.65142457829527,
+      "std": 1.2920624621639942
+    },
+    "humidity": {
+      "mean": 51.94540009702941,
+      "std": 3.1165687039005756
+    },
+    "temp_mean_24h": {
+      "mean": 32.43021532710936,
+      "std": 6.191020613732155
+    },
+    "temp_std_24h": {
+      "mean": 0.7449698603083916,
+      "std": 0.678728103825626
+    },
+    "temp_min_24h": {
+      "mean": 30.960534258844607,
+      "std": 6.159812420596038
+    },
+    "temp_max_24h": {
+      "mean": 33.54010509031198,
+      "std": 6.417182222470536
+    },
+    "temp_range_24h": {
+      "mean": 2.5795708314673824,
+      "std": 2.268907755745558
+    },
+    "hum_mean_24h": {
+      "mean": 50.17627531359319,
+      "std": 9.716052458986995
+    },
+    "hum_std_24h": {
+      "mean": 1.8690123149537718,
+      "std": 1.5929231645960398
+    },
+    "hum_min_24h": {
+      "mean": 46.7926223316913,
+      "std": 9.36471345515169
+    },
+    "hum_max_24h": {
+      "mean": 53.485699059561135,
+      "std": 10.674129771537595
+    },
+    "hum_range_24h": {
+      "mean": 6.693076727869831,
+      "std": 5.501142345651173
+    },
+    "temp_trend_6h": {
+      "mean": 0.01407680250783696,
+      "std": 1.3615969137744877
+    },
+    "hum_trend_6h": {
+      "mean": -0.024979623824451406,
+      "std": 2.8028750560603637
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202056": {
+    "temperature": {
+      "mean": 30.170859254405123,
+      "std": 4.2909324672538025
+    },
+    "humidity": {
+      "mean": 65.36141866899665,
+      "std": 6.442773865679156
+    },
+    "temp_mean_24h": {
+      "mean": 29.109884447328906,
+      "std": 5.65717505955692
+    },
+    "temp_std_24h": {
+      "mean": 3.769353163168435,
+      "std": 1.0931063185299839
+    },
+    "temp_min_24h": {
+      "mean": 24.39444495412844,
+      "std": 4.7518810059933285
+    },
+    "temp_max_24h": {
+      "mean": 35.34201427115188,
+      "std": 6.976032541647163
+    },
+    "temp_range_24h": {
+      "mean": 10.947569317023444,
+      "std": 2.8754115240496985
+    },
+    "hum_mean_24h": {
+      "mean": 63.18795820944331,
+      "std": 12.638608970933246
+    },
+    "hum_std_24h": {
+      "mean": 4.245137394601896,
+      "std": 1.5967194240753935
+    },
+    "hum_min_24h": {
+      "mean": 55.77603414882772,
+      "std": 12.093876358239196
+    },
+    "hum_max_24h": {
+      "mean": 69.11983588175332,
+      "std": 13.550952115910269
+    },
+    "hum_range_24h": {
+      "mean": 13.343801732925588,
+      "std": 5.18846177116154
+    },
+    "temp_trend_6h": {
+      "mean": 0.03659225280326195,
+      "std": 5.698423696399458
+    },
+    "hum_trend_6h": {
+      "mean": 0.0225866462793068,
+      "std": 6.337666395776287
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202057": {
+    "temperature": {
+      "mean": 20.110500000000002,
+      "std": 2.491451885949236
+    },
+    "humidity": {
+      "mean": 51.801,
+      "std": 4.873795556340048
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202060": {
+    "temperature": {
+      "mean": 34.636205030380104,
+      "std": 0.9396849332619582
+    },
+    "humidity": {
+      "mean": 62.43484612123781,
+      "std": 11.825933674066764
+    },
+    "temp_mean_24h": {
+      "mean": 33.48307242018327,
+      "std": 6.175083980372752
+    },
+    "temp_std_24h": {
+      "mean": 0.5176677396972524,
+      "std": 0.6804269743626518
+    },
+    "temp_min_24h": {
+      "mean": 32.48645647873393,
+      "std": 6.233298985593529
+    },
+    "temp_max_24h": {
+      "mean": 34.27463663981913,
+      "std": 6.350153402372766
+    },
+    "temp_range_24h": {
+      "mean": 1.7881801610852062,
+      "std": 2.214157997085051
+    },
+    "hum_mean_24h": {
+      "mean": 59.7492981891568,
+      "std": 15.594081178578154
+    },
+    "hum_std_24h": {
+      "mean": 1.9568710907589097,
+      "std": 1.3714738318619144
+    },
+    "hum_min_24h": {
+      "mean": 56.14300445103857,
+      "std": 13.87219836981524
+    },
+    "hum_max_24h": {
+      "mean": 63.26449455984174,
+      "std": 16.726222716822175
+    },
+    "hum_range_24h": {
+      "mean": 7.121490108803165,
+      "std": 4.754790927261889
+    },
+    "temp_trend_6h": {
+      "mean": -0.010862017804154257,
+      "std": 1.2149121344680183
+    },
+    "hum_trend_6h": {
+      "mean": 0.4402715133531158,
+      "std": 3.2237768661556316
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202061": {
+    "temperature": {
+      "mean": 32.29023472527472,
+      "std": 2.5458197101683635
+    },
+    "humidity": {
+      "mean": 62.12029501831501,
+      "std": 3.966213299019033
+    },
+    "temp_mean_24h": {
+      "mean": 31.13453223482679,
+      "std": 5.905944780417222
+    },
+    "temp_std_24h": {
+      "mean": 2.2571760750095464,
+      "std": 0.6635204921290189
+    },
+    "temp_min_24h": {
+      "mean": 28.061956410256407,
+      "std": 5.399087733759369
+    },
+    "temp_max_24h": {
+      "mean": 34.756417216117214,
+      "std": 6.593922608823681
+    },
+    "temp_range_24h": {
+      "mean": 6.694460805860805,
+      "std": 1.8306115861488803
+    },
+    "hum_mean_24h": {
+      "mean": 59.71758061754535,
+      "std": 11.462304578828308
+    },
+    "hum_std_24h": {
+      "mean": 2.363500399069784,
+      "std": 1.2462662303015777
+    },
+    "hum_min_24h": {
+      "mean": 56.1308723076923,
+      "std": 10.77300892618913
+    },
+    "hum_max_24h": {
+      "mean": 63.4153221978022,
+      "std": 12.502027326066377
+    },
+    "hum_range_24h": {
+      "mean": 7.28444989010989,
+      "std": 3.864427711192976
+    },
+    "temp_trend_6h": {
+      "mean": 0.037573846153846166,
+      "std": 3.4171471815290837
+    },
+    "hum_trend_6h": {
+      "mean": 0.03000307692307696,
+      "std": 3.716383400006281
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202062": {
+    "temperature": {
+      "mean": 34.915338125187176,
+      "std": 0.8136589647045941
+    },
+    "humidity": {
+      "mean": 63.09629410002995,
+      "std": 9.911858684854149
+    },
+    "temp_mean_24h": {
+      "mean": 33.67600663060757,
+      "std": 6.405205664623131
+    },
+    "temp_std_24h": {
+      "mean": 0.34276500712057995,
+      "std": 0.5662410156834832
+    },
+    "temp_min_24h": {
+      "mean": 33.10396885294999,
+      "std": 6.430910865467907
+    },
+    "temp_max_24h": {
+      "mean": 34.27881641209943,
+      "std": 6.534944669680244
+    },
+    "temp_range_24h": {
+      "mean": 1.1748475591494465,
+      "std": 1.9314368074020505
+    },
+    "hum_mean_24h": {
+      "mean": 60.91052319583605,
+      "std": 14.923523018582115
+    },
+    "hum_std_24h": {
+      "mean": 2.302354141515835,
+      "std": 1.942565884879709
+    },
+    "hum_min_24h": {
+      "mean": 57.2016229410003,
+      "std": 13.28125439170077
+    },
+    "hum_max_24h": {
+      "mean": 65.38557472297094,
+      "std": 16.75697519128579
+    },
+    "hum_range_24h": {
+      "mean": 8.18395178197065,
+      "std": 6.196134605397855
+    },
+    "temp_trend_6h": {
+      "mean": 0.01487368972746332,
+      "std": 0.8439473098265717
+    },
+    "hum_trend_6h": {
+      "mean": 0.14061949685534592,
+      "std": 3.3953335943504954
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202063": {
+    "temperature": {
+      "mean": 30.185989417989422,
+      "std": 3.3510490024687907
+    },
+    "humidity": {
+      "mean": 61.05320599170599,
+      "std": 7.791265438407297
+    },
+    "temp_mean_24h": {
+      "mean": 29.156669098769626,
+      "std": 5.5494142666192
+    },
+    "temp_std_24h": {
+      "mean": 2.817265163508253,
+      "std": 1.3282098821467865
+    },
+    "temp_min_24h": {
+      "mean": 25.34447619047619,
+      "std": 5.070431803169621
+    },
+    "temp_max_24h": {
+      "mean": 34.21773001573001,
+      "std": 6.790309297856437
+    },
+    "temp_range_24h": {
+      "mean": 8.873253825253824,
+      "std": 4.202135947709453
+    },
+    "hum_mean_24h": {
+      "mean": 59.484674322804366,
+      "std": 12.994297152731344
+    },
+    "hum_std_24h": {
+      "mean": 2.196886795135143,
+      "std": 2.0795267945841944
+    },
+    "hum_min_24h": {
+      "mean": 55.96161111111112,
+      "std": 12.156983917735145
+    },
+    "hum_max_24h": {
+      "mean": 63.21495995995994,
+      "std": 14.65747230998477
+    },
+    "hum_range_24h": {
+      "mean": 7.253348848848848,
+      "std": 6.908163271799208
+    },
+    "temp_trend_6h": {
+      "mean": -0.11346796796796803,
+      "std": 4.448202423049018
+    },
+    "hum_trend_6h": {
+      "mean": 0.019465965965965937,
+      "std": 3.8224296193812815
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202064": {
+    "temperature": {
+      "mean": 35.25095301783264,
+      "std": 0.5797654487131635
+    },
+    "humidity": {
+      "mean": 54.41189917695474,
+      "std": 3.5717397182631103
+    },
+    "temp_mean_24h": {
+      "mean": 34.04213230956852,
+      "std": 6.3976368796348275
+    },
+    "temp_std_24h": {
+      "mean": 0.3108424864972528,
+      "std": 0.4514835764355803
+    },
+    "temp_min_24h": {
+      "mean": 33.42397788065844,
+      "std": 6.3871079968620155
+    },
+    "temp_max_24h": {
+      "mean": 34.535307098765436,
+      "std": 6.495146483478635
+    },
+    "temp_range_24h": {
+      "mean": 1.1113292181069954,
+      "std": 1.4753224697441212
+    },
+    "hum_mean_24h": {
+      "mean": 52.48029706309616,
+      "std": 10.448217371381167
+    },
+    "hum_std_24h": {
+      "mean": 0.6456478801557984,
+      "std": 0.38037378210140915
+    },
+    "hum_min_24h": {
+      "mean": 51.466108539094655,
+      "std": 10.3435989652608
+    },
+    "hum_max_24h": {
+      "mean": 53.59546965020577,
+      "std": 10.53414045140379
+    },
+    "hum_range_24h": {
+      "mean": 2.1293611111111117,
+      "std": 1.1982624970272184
+    },
+    "temp_trend_6h": {
+      "mean": -0.0019521604938271175,
+      "std": 0.7827175498602842
+    },
+    "hum_trend_6h": {
+      "mean": 0.13692901234567897,
+      "std": 0.887361057464176
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202065": {
+    "temperature": {
+      "mean": 35.216043638948115,
+      "std": 1.0053185360788883
+    },
+    "humidity": {
+      "mean": 61.44205458422175,
+      "std": 8.928285367347634
+    },
+    "temp_mean_24h": {
+      "mean": 34.048133021100085,
+      "std": 6.303297931663802
+    },
+    "temp_std_24h": {
+      "mean": 0.4388831597109744,
+      "std": 0.7748620435056703
+    },
+    "temp_min_24h": {
+      "mean": 33.29975515280739,
+      "std": 6.365884850460439
+    },
+    "temp_max_24h": {
+      "mean": 34.75340149253731,
+      "std": 6.476456593981027
+    },
+    "temp_range_24h": {
+      "mean": 1.4536463397299206,
+      "std": 2.4558752896942515
+    },
+    "hum_mean_24h": {
+      "mean": 58.83867583047862,
+      "std": 13.457042295577711
+    },
+    "hum_std_24h": {
+      "mean": 2.2495123718361167,
+      "std": 1.0202299021947538
+    },
+    "hum_min_24h": {
+      "mean": 54.868030845771145,
+      "std": 13.01553896021447
+    },
+    "hum_max_24h": {
+      "mean": 62.95744221748401,
+      "std": 13.906070436377759
+    },
+    "hum_range_24h": {
+      "mean": 8.089411371712862,
+      "std": 3.0456971334685465
+    },
+    "temp_trend_6h": {
+      "mean": -0.045402985074626846,
+      "std": 1.3071676787214905
+    },
+    "hum_trend_6h": {
+      "mean": 0.5743164179104477,
+      "std": 3.2958246948541947
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202066": {
+    "temperature": {
+      "mean": 32.076744668419515,
+      "std": 3.863105906486712
+    },
+    "humidity": {
+      "mean": 46.11804411335086,
+      "std": 4.163318309993162
+    },
+    "temp_mean_24h": {
+      "mean": 30.874581329704352,
+      "std": 6.285183833552859
+    },
+    "temp_std_24h": {
+      "mean": 2.4387396348727255,
+      "std": 1.6877290779251801
+    },
+    "temp_min_24h": {
+      "mean": 27.110029652351734,
+      "std": 6.606891373573123
+    },
+    "temp_max_24h": {
+      "mean": 34.45673539293018,
+      "std": 6.547339794078642
+    },
+    "temp_range_24h": {
+      "mean": 7.3467057405784395,
+      "std": 4.735868420601734
+    },
+    "hum_mean_24h": {
+      "mean": 44.65830332361928,
+      "std": 9.1882979876912
+    },
+    "hum_std_24h": {
+      "mean": 1.462158062375562,
+      "std": 1.0336121780341931
+    },
+    "hum_min_24h": {
+      "mean": 42.156333844580786,
+      "std": 8.27858740413018
+    },
+    "hum_max_24h": {
+      "mean": 47.04684304703477,
+      "std": 10.17520425546847
+    },
+    "hum_range_24h": {
+      "mean": 4.8905092024539885,
+      "std": 3.7821025000924857
+    },
+    "temp_trend_6h": {
+      "mean": -0.012267382413087904,
+      "std": 4.256626829454564
+    },
+    "hum_trend_6h": {
+      "mean": -0.15938139059304707,
+      "std": 2.2937280486388665
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202067": {
+    "temperature": {
+      "mean": 31.48494828355405,
+      "std": 2.221432438975937
+    },
+    "humidity": {
+      "mean": 62.722147318493484,
+      "std": 3.3314244304285117
+    },
+    "temp_mean_24h": {
+      "mean": 30.471385624476326,
+      "std": 5.70006012839311
+    },
+    "temp_std_24h": {
+      "mean": 1.8740082913268183,
+      "std": 0.5439034254015981
+    },
+    "temp_min_24h": {
+      "mean": 28.05254191321499,
+      "std": 5.21784770746402
+    },
+    "temp_max_24h": {
+      "mean": 33.94277071005917,
+      "std": 6.392533877590005
+    },
+    "temp_range_24h": {
+      "mean": 5.89022879684418,
+      "std": 1.5770586289488113
+    },
+    "hum_mean_24h": {
+      "mean": 60.8625968786884,
+      "std": 11.455377512098208
+    },
+    "hum_std_24h": {
+      "mean": 1.7970683967486034,
+      "std": 0.9866498318559938
+    },
+    "hum_min_24h": {
+      "mean": 57.764281769512536,
+      "std": 11.003889496656852
+    },
+    "hum_max_24h": {
+      "mean": 63.388887245233406,
+      "std": 11.968671447460475
+    },
+    "hum_range_24h": {
+      "mean": 5.624605475720859,
+      "std": 3.0603016782573627
+    },
+    "temp_trend_6h": {
+      "mean": -0.08314694280078898,
+      "std": 2.7458812424186707
+    },
+    "hum_trend_6h": {
+      "mean": 0.039225345167652886,
+      "std": 2.647517473265229
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202068": {
+    "temperature": {
+      "mean": 34.97771516624401,
+      "std": 0.9147998643658508
+    },
+    "humidity": {
+      "mean": 52.89373496055226,
+      "std": 3.8846515198985268
+    },
+    "temp_mean_24h": {
+      "mean": 33.82584253614563,
+      "std": 6.24401359385007
+    },
+    "temp_std_24h": {
+      "mean": 0.3862107669476772,
+      "std": 0.5716883895345783
+    },
+    "temp_min_24h": {
+      "mean": 33.1485273668639,
+      "std": 6.2878617615074806
+    },
+    "temp_max_24h": {
+      "mean": 34.46799556213018,
+      "std": 6.339931770531272
+    },
+    "temp_range_24h": {
+      "mean": 1.3194681952662737,
+      "std": 1.821769364121565
+    },
+    "hum_mean_24h": {
+      "mean": 51.03469033898403,
+      "std": 9.963444880560122
+    },
+    "hum_std_24h": {
+      "mean": 1.532371820331759,
+      "std": 0.915648418254172
+    },
+    "hum_min_24h": {
+      "mean": 48.262875739644976,
+      "std": 9.974947560133256
+    },
+    "hum_max_24h": {
+      "mean": 53.443861193293884,
+      "std": 10.06632448527003
+    },
+    "hum_range_24h": {
+      "mean": 5.1809854536489155,
+      "std": 3.5587247319200688
+    },
+    "temp_trend_6h": {
+      "mean": -0.005102564102564095,
+      "std": 0.9686587713568059
+    },
+    "hum_trend_6h": {
+      "mean": 0.22872781065088757,
+      "std": 2.432320704148872
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202069": {
+    "temperature": {
+      "mean": 33.32314593164593,
+      "std": 2.7394866075370605
+    },
+    "humidity": {
+      "mean": 55.92931767481767,
+      "std": 4.728547705568964
+    },
+    "temp_mean_24h": {
+      "mean": 32.15480837661735,
+      "std": 6.170446929867089
+    },
+    "temp_std_24h": {
+      "mean": 1.8206385576884019,
+      "std": 1.2667966118302076
+    },
+    "temp_min_24h": {
+      "mean": 29.21516144716145,
+      "std": 6.171911469231695
+    },
+    "temp_max_24h": {
+      "mean": 34.91557757757757,
+      "std": 6.544487275706064
+    },
+    "temp_range_24h": {
+      "mean": 5.70041613041613,
+      "std": 3.629482862248261
+    },
+    "hum_mean_24h": {
+      "mean": 54.185808790912354,
+      "std": 10.858875564268235
+    },
+    "hum_std_24h": {
+      "mean": 1.5852166971954111,
+      "std": 1.546010121411109
+    },
+    "hum_min_24h": {
+      "mean": 51.54802152152152,
+      "std": 10.34978894772758
+    },
+    "hum_max_24h": {
+      "mean": 56.539565422565424,
+      "std": 11.738504079757519
+    },
+    "hum_range_24h": {
+      "mean": 4.991543901043901,
+      "std": 4.845839584590138
+    },
+    "temp_trend_6h": {
+      "mean": -0.028931931931931967,
+      "std": 3.018214745174568
+    },
+    "hum_trend_6h": {
+      "mean": 0.14442092092092093,
+      "std": 2.495061739949257
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202070": {
+    "temperature": {
+      "mean": 30.28010343180482,
+      "std": 3.0778105717187154
+    },
+    "humidity": {
+      "mean": 59.185949698706644,
+      "std": 4.166664300085919
+    },
+    "temp_mean_24h": {
+      "mean": 29.24172037264574,
+      "std": 5.613762423881574
+    },
+    "temp_std_24h": {
+      "mean": 2.693651967589023,
+      "std": 0.9085729019973049
+    },
+    "temp_min_24h": {
+      "mean": 25.725545340975895,
+      "std": 4.938993513449462
+    },
+    "temp_max_24h": {
+      "mean": 33.89091563786008,
+      "std": 6.634091336221267
+    },
+    "temp_range_24h": {
+      "mean": 8.165370296884184,
+      "std": 2.565311843585394
+    },
+    "hum_mean_24h": {
+      "mean": 57.35780731176291,
+      "std": 11.045597514497635
+    },
+    "hum_std_24h": {
+      "mean": 2.875731608895135,
+      "std": 1.5063523186613785
+    },
+    "hum_min_24h": {
+      "mean": 52.20559516460905,
+      "std": 10.812618152619608
+    },
+    "hum_max_24h": {
+      "mean": 61.33279118900646,
+      "std": 11.66776804169328
+    },
+    "hum_range_24h": {
+      "mean": 9.127196024397414,
+      "std": 4.633295935199952
+    },
+    "temp_trend_6h": {
+      "mean": -0.09034927983539101,
+      "std": 4.0116383131633935
+    },
+    "hum_trend_6h": {
+      "mean": 0.15400514403292181,
+      "std": 4.2066571064544975
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202071": {
+    "temperature": {
+      "mean": 35.09092133580705,
+      "std": 0.2705034495659792
+    },
+    "humidity": {
+      "mean": 58.23833246753247,
+      "std": 3.6093437170654954
+    },
+    "temp_mean_24h": {
+      "mean": 34.08556316655718,
+      "std": 5.856726332264523
+    },
+    "temp_std_24h": {
+      "mean": 0.15281559254789828,
+      "std": 0.09751936375893877
+    },
+    "temp_min_24h": {
+      "mean": 33.85235974025974,
+      "std": 5.816233005135962
+    },
+    "temp_max_24h": {
+      "mean": 34.437830241187385,
+      "std": 5.9292258860082585
+    },
+    "temp_range_24h": {
+      "mean": 0.5854705009276434,
+      "std": 0.3808800543475798
+    },
+    "hum_mean_24h": {
+      "mean": 56.46207975159083,
+      "std": 10.251336279040615
+    },
+    "hum_std_24h": {
+      "mean": 1.1725105959858861,
+      "std": 0.5868482329878723
+    },
+    "hum_min_24h": {
+      "mean": 54.399055844155846,
+      "std": 9.981176062597855
+    },
+    "hum_max_24h": {
+      "mean": 58.520082807668516,
+      "std": 10.578415560581277
+    },
+    "hum_range_24h": {
+      "mean": 4.121026963512678,
+      "std": 1.8413702047068328
+    },
+    "temp_trend_6h": {
+      "mean": 0.003448979591836693,
+      "std": 0.26448816393487434
+    },
+    "hum_trend_6h": {
+      "mean": 0.1921239950525665,
+      "std": 1.6856014944549749
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202072": {
+    "temperature": {
+      "mean": 36.22607142857143,
+      "std": 5.431866211139069
+    },
+    "humidity": {
+      "mean": 56.20642857142856,
+      "std": 13.146671541460506
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1e-06
+    },
+    "temp_trend_6h": {
+      "mean": -2.0328571428571434,
+      "std": 5.378434450921305
+    },
+    "hum_trend_6h": {
+      "mean": 5.321428571428571,
+      "std": 14.079176619593715
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202073": {
+    "temperature": {
+      "mean": 30.65076808061108,
+      "std": 3.000624737070588
+    },
+    "humidity": {
+      "mean": 48.35745490004876,
+      "std": 4.761840370618893
+    },
+    "temp_mean_24h": {
+      "mean": 29.541032479955437,
+      "std": 5.999393056703285
+    },
+    "temp_std_24h": {
+      "mean": 2.53804655157757,
+      "std": 0.8583019701084945
+    },
+    "temp_min_24h": {
+      "mean": 25.802125142207053,
+      "std": 5.301132713480169
+    },
+    "temp_max_24h": {
+      "mean": 34.1785534698521,
+      "std": 6.943899207748274
+    },
+    "temp_range_24h": {
+      "mean": 8.376428327645051,
+      "std": 2.5414425002167342
+    },
+    "hum_mean_24h": {
+      "mean": 46.837875584796464,
+      "std": 9.740472873476874
+    },
+    "hum_std_24h": {
+      "mean": 3.174796925405486,
+      "std": 1.4884048948577135
+    },
+    "hum_min_24h": {
+      "mean": 41.315160978384526,
+      "std": 8.879696035421167
+    },
+    "hum_max_24h": {
+      "mean": 51.457532260685845,
+      "std": 10.80647446556844
+    },
+    "hum_range_24h": {
+      "mean": 10.142371282301319,
+      "std": 4.639934875959785
+    },
+    "temp_trend_6h": {
+      "mean": -0.0972184300341297,
+      "std": 4.029854552562195
+    },
+    "hum_trend_6h": {
+      "mean": -0.06223549488054617,
+      "std": 4.662280863564577
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202074": {
+    "temperature": {
+      "mean": 35.15145473015873,
+      "std": 1.2347932111330358
+    },
+    "humidity": {
+      "mean": 63.98985187301588,
+      "std": 9.730510311353333
+    },
+    "temp_mean_24h": {
+      "mean": 34.086291895708804,
+      "std": 6.02571643404174
+    },
+    "temp_std_24h": {
+      "mean": 0.3695260765272798,
+      "std": 0.6554333496535565
+    },
+    "temp_min_24h": {
+      "mean": 33.46500050793651,
+      "std": 6.102727135598154
+    },
+    "temp_max_24h": {
+      "mean": 34.671864,
+      "std": 6.041206514275209
+    },
+    "temp_range_24h": {
+      "mean": 1.2068634920634922,
+      "std": 1.9537445523366304
+    },
+    "hum_mean_24h": {
+      "mean": 62.31299809807555,
+      "std": 14.177859222837654
+    },
+    "hum_std_24h": {
+      "mean": 2.1084201330010663,
+      "std": 2.416238405228723
+    },
+    "hum_min_24h": {
+      "mean": 58.97586653968254,
+      "std": 13.385013178505858
+    },
+    "hum_max_24h": {
+      "mean": 66.42901733333333,
+      "std": 15.498892900457447
+    },
+    "hum_range_24h": {
+      "mean": 7.453150793650795,
+      "std": 7.490300284955006
+    },
+    "temp_trend_6h": {
+      "mean": 0.028808444444444452,
+      "std": 0.9402370864242594
+    },
+    "hum_trend_6h": {
+      "mean": 0.06262311111111121,
+      "std": 3.6172558612945647
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202109": {
+    "temperature": {
+      "mean": 34.218196604677374,
+      "std": 1.5519374240944064
+    },
+    "humidity": {
+      "mean": 63.578689208227665,
+      "std": 12.887557401496784
+    },
+    "temp_mean_24h": {
+      "mean": 33.07774543603534,
+      "std": 6.13956181915399
+    },
+    "temp_std_24h": {
+      "mean": 0.635738883711855,
+      "std": 1.1226041031976666
+    },
+    "temp_min_24h": {
+      "mean": 31.82208777120316,
+      "std": 6.475634017095522
+    },
+    "temp_max_24h": {
+      "mean": 33.96005571992111,
+      "std": 6.355013060693456
+    },
+    "temp_range_24h": {
+      "mean": 2.1379679487179497,
+      "std": 3.579525233141955
+    },
+    "hum_mean_24h": {
+      "mean": 61.665834488646176,
+      "std": 16.69296229482411
+    },
+    "hum_std_24h": {
+      "mean": 3.2118794515288642,
+      "std": 2.1704968258328794
+    },
+    "hum_min_24h": {
+      "mean": 55.89064990138066,
+      "std": 15.177217842669085
+    },
+    "hum_max_24h": {
+      "mean": 67.10733333333334,
+      "std": 17.80785214435992
+    },
+    "hum_range_24h": {
+      "mean": 11.216683431952664,
+      "std": 7.272503145186719
+    },
+    "temp_trend_6h": {
+      "mean": -0.012978303747534496,
+      "std": 1.569940300278022
+    },
+    "hum_trend_6h": {
+      "mean": 0.0899753451676529,
+      "std": 4.462176894880028
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202110": {
+    "temperature": {
+      "mean": 33.92442261904762,
+      "std": 0.7296389339679068
+    },
+    "humidity": {
+      "mean": 57.150347671012845,
+      "std": 7.4356110787614345
+    },
+    "temp_mean_24h": {
+      "mean": 32.78529384984392,
+      "std": 6.052058355644675
+    },
+    "temp_std_24h": {
+      "mean": 0.3965805577062043,
+      "std": 0.4941308727448562
+    },
+    "temp_min_24h": {
+      "mean": 32.02848788265306,
+      "std": 6.019197684117315
+    },
+    "temp_max_24h": {
+      "mean": 33.379592049319726,
+      "std": 6.167426896411438
+    },
+    "temp_range_24h": {
+      "mean": 1.3511041666666668,
+      "std": 1.5220973655008274
+    },
+    "hum_mean_24h": {
+      "mean": 54.98463662794687,
+      "std": 12.24716643559695
+    },
+    "hum_std_24h": {
+      "mean": 1.8212581065314606,
+      "std": 1.4738458671734962
+    },
+    "hum_min_24h": {
+      "mean": 51.99620320767196,
+      "std": 10.900424802719666
+    },
+    "hum_max_24h": {
+      "mean": 58.168577593537414,
+      "std": 13.697739208297993
+    },
+    "hum_range_24h": {
+      "mean": 6.172374385865458,
+      "std": 4.838727416560289
+    },
+    "temp_trend_6h": {
+      "mean": 0.006667729591836755,
+      "std": 0.8420789957341126
+    },
+    "hum_trend_6h": {
+      "mean": 0.23959573412698415,
+      "std": 3.094613832549556
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202111": {
+    "temperature": {
+      "mean": 30.675725787545787,
+      "std": 3.344554571158839
+    },
+    "humidity": {
+      "mean": 72.81315545787547,
+      "std": 6.4133508046459635
+    },
+    "temp_mean_24h": {
+      "mean": 29.637812347921315,
+      "std": 5.749084459309805
+    },
+    "temp_std_24h": {
+      "mean": 2.8338584551549153,
+      "std": 0.8897707160199047
+    },
+    "temp_min_24h": {
+      "mean": 25.830602490842498,
+      "std": 4.993111429814468
+    },
+    "temp_max_24h": {
+      "mean": 34.14039435897436,
+      "std": 6.71537238327162
+    },
+    "temp_range_24h": {
+      "mean": 8.309791868131867,
+      "std": 2.572340611837986
+    },
+    "hum_mean_24h": {
+      "mean": 70.64431028188618,
+      "std": 13.879899939277728
+    },
+    "hum_std_24h": {
+      "mean": 4.195984722161629,
+      "std": 1.8181847055353002
+    },
+    "hum_min_24h": {
+      "mean": 63.34600923076923,
+      "std": 14.005581277329954
+    },
+    "hum_max_24h": {
+      "mean": 76.78957406593409,
+      "std": 14.790809827389582
+    },
+    "hum_range_24h": {
+      "mean": 13.443564835164837,
+      "std": 6.894568076425553
+    },
+    "temp_trend_6h": {
+      "mean": -0.07702410256410254,
+      "std": 4.25490301201899
+    },
+    "hum_trend_6h": {
+      "mean": 0.2161594871794872,
+      "std": 5.992553335671688
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202114": {
+    "temperature": {
+      "mean": 33.9568497647562,
+      "std": 2.0896797160114486
+    },
+    "humidity": {
+      "mean": 59.49941003706872,
+      "std": 3.7818790974323013
+    },
+    "temp_mean_24h": {
+      "mean": 32.788338382705916,
+      "std": 6.248421800527277
+    },
+    "temp_std_24h": {
+      "mean": 0.9200037784749048,
+      "std": 1.1221355964143847
+    },
+    "temp_min_24h": {
+      "mean": 30.969692543484463,
+      "std": 6.844116809642228
+    },
+    "temp_max_24h": {
+      "mean": 34.15669742657541,
+      "std": 6.384450356965812
+    },
+    "temp_range_24h": {
+      "mean": 3.1870048830909607,
+      "std": 3.9440967209303115
+    },
+    "hum_mean_24h": {
+      "mean": 57.20884218809921,
+      "std": 10.95628273199723
+    },
+    "hum_std_24h": {
+      "mean": 0.9087604860936032,
+      "std": 1.113462367174765
+    },
+    "hum_min_24h": {
+      "mean": 55.74817821499857,
+      "std": 10.801242834025087
+    },
+    "hum_max_24h": {
+      "mean": 58.76687824351297,
+      "std": 11.57066943544452
+    },
+    "hum_range_24h": {
+      "mean": 3.0187000285144,
+      "std": 3.673216680844065
+    },
+    "temp_trend_6h": {
+      "mean": -0.0017240518962075592,
+      "std": 1.934459838999211
+    },
+    "hum_trend_6h": {
+      "mean": 0.37064371257485035,
+      "std": 1.7015922689876082
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202123": {
+    "temperature": {
+      "mean": 35.01945216251638,
+      "std": 1.6062428138628297
+    },
+    "humidity": {
+      "mean": 56.76123998835007,
+      "std": 4.118272445664139
+    },
+    "temp_mean_24h": {
+      "mean": 33.82282986491853,
+      "std": 6.418467826165012
+    },
+    "temp_std_24h": {
+      "mean": 0.5557335685791143,
+      "std": 1.049987611189845
+    },
+    "temp_min_24h": {
+      "mean": 32.80577726809378,
+      "std": 6.785937484110657
+    },
+    "temp_max_24h": {
+      "mean": 34.7036383427989,
+      "std": 6.542086914160321
+    },
+    "temp_range_24h": {
+      "mean": 1.8978610747051126,
+      "std": 3.3532210533021143
+    },
+    "hum_mean_24h": {
+      "mean": 54.80158200725986,
+      "std": 10.749460577938958
+    },
+    "hum_std_24h": {
+      "mean": 1.2227781058336888,
+      "std": 2.2361905639920674
+    },
+    "hum_min_24h": {
+      "mean": 52.69352198922383,
+      "std": 10.36729038556195
+    },
+    "hum_max_24h": {
+      "mean": 56.99907747196738,
+      "std": 12.634402782921567
+    },
+    "hum_range_24h": {
+      "mean": 4.305555482743556,
+      "std": 8.211337693077036
+    },
+    "temp_trend_6h": {
+      "mean": 0.023901630988786966,
+      "std": 1.5018317205809253
+    },
+    "hum_trend_6h": {
+      "mean": 0.018617737003058108,
+      "std": 2.9977221336647704
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202124": {
+    "temperature": {
+      "mean": 32.88807577355837,
+      "std": 3.08243266010093
+    },
+    "humidity": {
+      "mean": 56.357364325899134,
+      "std": 6.888608072393793
+    },
+    "temp_mean_24h": {
+      "mean": 31.655209000531094,
+      "std": 6.360014145926789
+    },
+    "temp_std_24h": {
+      "mean": 1.6803640808473495,
+      "std": 1.5920365348947574
+    },
+    "temp_min_24h": {
+      "mean": 29.135666817359855,
+      "std": 6.829003394709463
+    },
+    "temp_max_24h": {
+      "mean": 34.16971782700422,
+      "std": 6.590745126769349
+    },
+    "temp_range_24h": {
+      "mean": 5.034051009644364,
+      "std": 4.646550374730214
+    },
+    "hum_mean_24h": {
+      "mean": 54.76727963551804,
+      "std": 11.83114545373434
+    },
+    "hum_std_24h": {
+      "mean": 2.9564941798467395,
+      "std": 2.3844891741101417
+    },
+    "hum_min_24h": {
+      "mean": 49.75221694796062,
+      "std": 10.03277615362895
+    },
+    "hum_max_24h": {
+      "mean": 59.81521257785815,
+      "std": 14.655064476399758
+    },
+    "hum_range_24h": {
+      "mean": 10.062995629897529,
+      "std": 8.350908576150692
+    },
+    "temp_trend_6h": {
+      "mean": -0.03182436708860759,
+      "std": 3.2074616254339747
+    },
+    "hum_trend_6h": {
+      "mean": -0.09052584388185654,
+      "std": 4.980217970003145
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202126": {
+    "temperature": {
+      "mean": 21.18,
+      "std": 1.0
+    },
+    "humidity": {
+      "mean": 45.845,
+      "std": 1.0
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202127": {
+    "temperature": {
+      "mean": 28.697499999999998,
+      "std": 3.839519826749174
+    },
+    "humidity": {
+      "mean": 51.65,
+      "std": 4.764894192599314
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202128": {
+    "temperature": {
+      "mean": 32.818733281893,
+      "std": 2.9655681341259506
+    },
+    "humidity": {
+      "mean": 52.182993827160495,
+      "std": 3.7263360353934516
+    },
+    "temp_mean_24h": {
+      "mean": 31.594033797701826,
+      "std": 6.318145894147423
+    },
+    "temp_std_24h": {
+      "mean": 1.5719917389539235,
+      "std": 1.2492672809080014
+    },
+    "temp_min_24h": {
+      "mean": 29.257579732510287,
+      "std": 6.530218978449784
+    },
+    "temp_max_24h": {
+      "mean": 34.01331121399177,
+      "std": 6.505378818869398
+    },
+    "temp_range_24h": {
+      "mean": 4.755731481481482,
+      "std": 3.6333060950281304
+    },
+    "hum_mean_24h": {
+      "mean": 50.35887413401737,
+      "std": 9.845848514145707
+    },
+    "hum_std_24h": {
+      "mean": 2.0011914368219674,
+      "std": 1.5650720772997473
+    },
+    "hum_min_24h": {
+      "mean": 47.43109053497942,
+      "std": 9.251509903721553
+    },
+    "hum_max_24h": {
+      "mean": 54.08908333333335,
+      "std": 11.282568080844095
+    },
+    "hum_range_24h": {
+      "mean": 6.6579927983539084,
+      "std": 5.519879063742696
+    },
+    "temp_trend_6h": {
+      "mean": 0.005267489711934191,
+      "std": 2.7233263069057236
+    },
+    "hum_trend_6h": {
+      "mean": 0.09154835390946507,
+      "std": 3.0724551311474637
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202129": {
+    "temperature": {
+      "mean": 34.429752984669655,
+      "std": 1.1083286277342872
+    },
+    "humidity": {
+      "mean": 49.706381393298074,
+      "std": 2.58635118257209
+    },
+    "temp_mean_24h": {
+      "mean": 33.32338590005951,
+      "std": 6.069628957930103
+    },
+    "temp_std_24h": {
+      "mean": 0.396874315836202,
+      "std": 0.5088598763806645
+    },
+    "temp_min_24h": {
+      "mean": 32.57931908831909,
+      "std": 6.137740765092563
+    },
+    "temp_max_24h": {
+      "mean": 33.98982977207977,
+      "std": 6.144052301294226
+    },
+    "temp_range_24h": {
+      "mean": 1.4105106837606847,
+      "std": 1.878124085163292
+    },
+    "hum_mean_24h": {
+      "mean": 48.00285397550306,
+      "std": 8.888180590842712
+    },
+    "hum_std_24h": {
+      "mean": 1.1448436038902117,
+      "std": 0.9533592887896041
+    },
+    "hum_min_24h": {
+      "mean": 46.12593162393163,
+      "std": 8.87568027243467
+    },
+    "hum_max_24h": {
+      "mean": 50.03198836657169,
+      "std": 9.18327572563618
+    },
+    "hum_range_24h": {
+      "mean": 3.9060567426400756,
+      "std": 3.13999466822373
+    },
+    "temp_trend_6h": {
+      "mean": 0.06408594491927824,
+      "std": 0.7529332231090173
+    },
+    "hum_trend_6h": {
+      "mean": 0.053886514719848136,
+      "std": 2.015079372033515
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202130": {
+    "temperature": {
+      "mean": 31.46495867295867,
+      "std": 4.063284653592548
+    },
+    "humidity": {
+      "mean": 55.331854783354785,
+      "std": 8.57429579259285
+    },
+    "temp_mean_24h": {
+      "mean": 30.297520823876056,
+      "std": 6.4972148809464505
+    },
+    "temp_std_24h": {
+      "mean": 1.8620180113534686,
+      "std": 1.450544814401562
+    },
+    "temp_min_24h": {
+      "mean": 27.200549049049048,
+      "std": 7.311794729402827
+    },
+    "temp_max_24h": {
+      "mean": 33.21654054054054,
+      "std": 6.44574212790318
+    },
+    "temp_range_24h": {
+      "mean": 6.015991491491492,
+      "std": 4.5906910997624415
+    },
+    "hum_mean_24h": {
+      "mean": 53.89950089809261,
+      "std": 12.529421327562302
+    },
+    "hum_std_24h": {
+      "mean": 2.507727729957342,
+      "std": 2.566317277359276
+    },
+    "hum_min_24h": {
+      "mean": 50.25870363220363,
+      "std": 11.592343383858434
+    },
+    "hum_max_24h": {
+      "mean": 58.088235735735736,
+      "std": 14.81545219623812
+    },
+    "hum_range_24h": {
+      "mean": 7.829532103532104,
+      "std": 8.161453676286134
+    },
+    "temp_trend_6h": {
+      "mean": 0.00460060060060059,
+      "std": 3.1382965979908515
+    },
+    "hum_trend_6h": {
+      "mean": 0.07250650650650654,
+      "std": 4.32265992259032
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202131": {
+    "temperature": {
+      "mean": 34.9356631452862,
+      "std": 0.9621232798790458
+    },
+    "humidity": {
+      "mean": 63.140752940351774,
+      "std": 8.65292338207384
+    },
+    "temp_mean_24h": {
+      "mean": 33.60905736378454,
+      "std": 6.677722315555024
+    },
+    "temp_std_24h": {
+      "mean": 0.3427886801032427,
+      "std": 0.7918762089820612
+    },
+    "temp_min_24h": {
+      "mean": 32.68048449219696,
+      "std": 7.156042990183959
+    },
+    "temp_max_24h": {
+      "mean": 34.06417427589592,
+      "std": 6.783448150342185
+    },
+    "temp_range_24h": {
+      "mean": 1.3836897836989588,
+      "std": 3.392155631623386
+    },
+    "hum_mean_24h": {
+      "mean": 60.49023102943344,
+      "std": 14.39293023519895
+    },
+    "hum_std_24h": {
+      "mean": 2.2013355508840413,
+      "std": 1.722599051363336
+    },
+    "hum_min_24h": {
+      "mean": 56.53409901143123,
+      "std": 13.692509167110327
+    },
+    "hum_max_24h": {
+      "mean": 64.13300515463918,
+      "std": 15.185700582479575
+    },
+    "hum_range_24h": {
+      "mean": 7.598906143207954,
+      "std": 5.4776856467196
+    },
+    "temp_trend_6h": {
+      "mean": 0.05916585160465135,
+      "std": 1.0522124510406794
+    },
+    "hum_trend_6h": {
+      "mean": 0.4090645199656803,
+      "std": 3.5908348697993073
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202132": {
+    "temperature": {
+      "mean": 32.06338888888889,
+      "std": 4.056079372659264
+    },
+    "humidity": {
+      "mean": 59.247273058773054,
+      "std": 6.123399408813361
+    },
+    "temp_mean_24h": {
+      "mean": 30.883460108178113,
+      "std": 6.507026833124806
+    },
+    "temp_std_24h": {
+      "mean": 1.8861219187559553,
+      "std": 1.7746279440993311
+    },
+    "temp_min_24h": {
+      "mean": 28.02675353925354,
+      "std": 7.497419300299817
+    },
+    "temp_max_24h": {
+      "mean": 33.71992092092091,
+      "std": 6.428621400934441
+    },
+    "temp_range_24h": {
+      "mean": 5.693167381667382,
+      "std": 5.330246777797998
+    },
+    "hum_mean_24h": {
+      "mean": 57.198824935961284,
+      "std": 11.494716646315895
+    },
+    "hum_std_24h": {
+      "mean": 3.196369597198846,
+      "std": 2.6288850482568824
+    },
+    "hum_min_24h": {
+      "mean": 52.68991920491921,
+      "std": 10.52724650683245
+    },
+    "hum_max_24h": {
+      "mean": 63.225231517231514,
+      "std": 14.170587593435652
+    },
+    "hum_range_24h": {
+      "mean": 10.53531231231231,
+      "std": 8.671395617422268
+    },
+    "temp_trend_6h": {
+      "mean": -0.03684934934934932,
+      "std": 3.428546812052883
+    },
+    "hum_trend_6h": {
+      "mean": 0.2961546546546547,
+      "std": 5.194234464241763
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202193": {
+    "temperature": {
+      "mean": 18.8695,
+      "std": 1.513387549506074
+    },
+    "humidity": {
+      "mean": 51.8015,
+      "std": 8.604392337637796
+    },
+    "temp_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_range_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "temp_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "hum_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202196": {
+    "temperature": {
+      "mean": 33.066536624649856,
+      "std": 2.659515874549732
+    },
+    "humidity": {
+      "mean": 48.89350700280112,
+      "std": 4.3240558777230715
+    },
+    "temp_mean_24h": {
+      "mean": 31.92214151618603,
+      "std": 6.113514068086453
+    },
+    "temp_std_24h": {
+      "mean": 1.4986927394726335,
+      "std": 1.2731587210942445
+    },
+    "temp_min_24h": {
+      "mean": 29.734843627450978,
+      "std": 6.363166792598218
+    },
+    "temp_max_24h": {
+      "mean": 34.37251519607843,
+      "std": 6.345597569802014
+    },
+    "temp_range_24h": {
+      "mean": 4.637671568627453,
+      "std": 3.737881354146358
+    },
+    "hum_mean_24h": {
+      "mean": 47.40109216522795,
+      "std": 9.273429775872554
+    },
+    "hum_std_24h": {
+      "mean": 1.978042499682827,
+      "std": 2.1622513151061606
+    },
+    "hum_min_24h": {
+      "mean": 44.392944397759095,
+      "std": 8.282619770318865
+    },
+    "hum_max_24h": {
+      "mean": 51.03863725490196,
+      "std": 11.806667243837428
+    },
+    "hum_range_24h": {
+      "mean": 6.6456928571428575,
+      "std": 7.563797664411634
+    },
+    "temp_trend_6h": {
+      "mean": -0.015331862745098027,
+      "std": 2.7383515787717685
+    },
+    "hum_trend_6h": {
+      "mean": -0.09281323529411767,
+      "std": 4.352354767145213
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202202": {
+    "temperature": {
+      "mean": 32.16799568742369,
+      "std": 2.8178013597783456
+    },
+    "humidity": {
+      "mean": 56.316281260073254,
+      "std": 8.043047058764394
+    },
+    "temp_mean_24h": {
+      "mean": 31.03900204693579,
+      "std": 5.918805097822211
+    },
+    "temp_std_24h": {
+      "mean": 2.2227720305595757,
+      "std": 1.4195466279097828
+    },
+    "temp_min_24h": {
+      "mean": 28.02292615384615,
+      "std": 5.75891070153856
+    },
+    "temp_max_24h": {
+      "mean": 34.51924871794871,
+      "std": 6.649083436074933
+    },
+    "temp_range_24h": {
+      "mean": 6.496322564102564,
+      "std": 3.907473326322619
+    },
+    "hum_mean_24h": {
+      "mean": 54.85559340514488,
+      "std": 12.584887835466349
+    },
+    "hum_std_24h": {
+      "mean": 2.03517053041152,
+      "std": 1.8606764516016643
+    },
+    "hum_min_24h": {
+      "mean": 51.46180041025641,
+      "std": 11.403685316613343
+    },
+    "hum_max_24h": {
+      "mean": 57.72434102564103,
+      "std": 14.077656235846812
+    },
+    "hum_range_24h": {
+      "mean": 6.262540615384612,
+      "std": 6.180518074925744
+    },
+    "temp_trend_6h": {
+      "mean": -0.02858311111111112,
+      "std": 3.7431502204801146
+    },
+    "hum_trend_6h": {
+      "mean": -0.21857620512820508,
+      "std": 3.8607912018194623
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202203": {
+    "temperature": {
+      "mean": 35.109248304473304,
+      "std": 1.4113923899061562
+    },
+    "humidity": {
+      "mean": 56.01524343434343,
+      "std": 7.065267986032345
+    },
+    "temp_mean_24h": {
+      "mean": 33.924913389146596,
+      "std": 6.353647474949909
+    },
+    "temp_std_24h": {
+      "mean": 0.5668722917049106,
+      "std": 1.0714093246369056
+    },
+    "temp_min_24h": {
+      "mean": 32.83899292929293,
+      "std": 6.661643447802549
+    },
+    "temp_max_24h": {
+      "mean": 34.76822691197692,
+      "std": 6.595173968041685
+    },
+    "temp_range_24h": {
+      "mean": 1.9292339826839828,
+      "std": 3.5006053823854284
+    },
+    "hum_mean_24h": {
+      "mean": 53.66285524065275,
+      "std": 11.856539064317177
+    },
+    "hum_std_24h": {
+      "mean": 1.2234253424489971,
+      "std": 0.8455618042927838
+    },
+    "hum_min_24h": {
+      "mean": 51.68190050505051,
+      "std": 11.850863073381714
+    },
+    "hum_max_24h": {
+      "mean": 55.826374242424244,
+      "std": 12.262229341557385
+    },
+    "hum_range_24h": {
+      "mean": 4.144473737373735,
+      "std": 3.064176714856505
+    },
+    "temp_trend_6h": {
+      "mean": -0.03744696969696968,
+      "std": 1.6997514029021705
+    },
+    "hum_trend_6h": {
+      "mean": 0.47221212121212114,
+      "std": 1.6553866381006095
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202204": {
+    "temperature": {
+      "mean": 33.376865456012915,
+      "std": 2.7264948886351417
+    },
+    "humidity": {
+      "mean": 54.27139612590799,
+      "std": 3.9580274522508403
+    },
+    "temp_mean_24h": {
+      "mean": 32.045901255991204,
+      "std": 6.551514182042801
+    },
+    "temp_std_24h": {
+      "mean": 1.54913612402753,
+      "std": 1.471195277098466
+    },
+    "temp_min_24h": {
+      "mean": 29.82706101694915,
+      "std": 6.918953204673107
+    },
+    "temp_max_24h": {
+      "mean": 34.492450282485876,
+      "std": 6.846726112109852
+    },
+    "temp_range_24h": {
+      "mean": 4.665389265536722,
+      "std": 4.314028584590473
+    },
+    "hum_mean_24h": {
+      "mean": 52.29359893433445,
+      "std": 10.537524933244136
+    },
+    "hum_std_24h": {
+      "mean": 2.7075648933443324,
+      "std": 2.0954093503821385
+    },
+    "hum_min_24h": {
+      "mean": 48.0323813559322,
+      "std": 9.859058200179684
+    },
+    "hum_max_24h": {
+      "mean": 57.00765028248588,
+      "std": 12.284996840801789
+    },
+    "hum_range_24h": {
+      "mean": 8.975268926553673,
+      "std": 6.445314712296573
+    },
+    "temp_trend_6h": {
+      "mean": 0.02972033898305084,
+      "std": 3.101389909709481
+    },
+    "hum_trend_6h": {
+      "mean": 0.044813559322033895,
+      "std": 4.72308965751866
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202208": {
+    "temperature": {
+      "mean": 21.482602040816328,
+      "std": 2.6547443752090483
+    },
+    "humidity": {
+      "mean": 73.2254761904762,
+      "std": 6.931229604969493
+    },
+    "temp_mean_24h": {
+      "mean": 16.179855170614147,
+      "std": 8.96734480064934
+    },
+    "temp_std_24h": {
+      "mean": 1.2267765747138524,
+      "std": 0.9882751199465347
+    },
+    "temp_min_24h": {
+      "mean": 14.407448979591837,
+      "std": 8.090463047011031
+    },
+    "temp_max_24h": {
+      "mean": 18.489489795918367,
+      "std": 10.178039459260743
+    },
+    "temp_range_24h": {
+      "mean": 4.08204081632653,
+      "std": 3.05920237738521
+    },
+    "hum_mean_24h": {
+      "mean": 55.43584262632567,
+      "std": 30.437943140959383
+    },
+    "hum_std_24h": {
+      "mean": 3.0243335195324206,
+      "std": 2.02152224632623
+    },
+    "hum_min_24h": {
+      "mean": 49.545170068027204,
+      "std": 27.78081710437398
+    },
+    "hum_max_24h": {
+      "mean": 59.961581632653065,
+      "std": 32.78526145496297
+    },
+    "hum_range_24h": {
+      "mean": 10.41641156462585,
+      "std": 6.925645199929267
+    },
+    "temp_trend_6h": {
+      "mean": 0.8499489795918366,
+      "std": 1.5720292328073993
+    },
+    "hum_trend_6h": {
+      "mean": 2.5862074829931974,
+      "std": 2.9752463865702485
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202209": {
+    "temperature": {
+      "mean": 35.04434495632572,
+      "std": 1.0234834263097419
+    },
+    "humidity": {
+      "mean": 54.67679186625341,
+      "std": 1.6381573532512694
+    },
+    "temp_mean_24h": {
+      "mean": 33.892425282680286,
+      "std": 6.252250007510649
+    },
+    "temp_std_24h": {
+      "mean": 0.47045129587200923,
+      "std": 0.7195301629351751
+    },
+    "temp_min_24h": {
+      "mean": 32.98642490842491,
+      "std": 6.407873723006169
+    },
+    "temp_max_24h": {
+      "mean": 34.64111735700197,
+      "std": 6.395227156326042
+    },
+    "temp_range_24h": {
+      "mean": 1.6546924485770642,
+      "std": 2.503534096516063
+    },
+    "hum_mean_24h": {
+      "mean": 52.94276662779693,
+      "std": 9.797279557327608
+    },
+    "hum_std_24h": {
+      "mean": 0.6042456147367824,
+      "std": 0.9061841792807351
+    },
+    "hum_min_24h": {
+      "mean": 51.902965342349965,
+      "std": 9.754544626213972
+    },
+    "hum_max_24h": {
+      "mean": 54.02271329952099,
+      "std": 10.195268927524882
+    },
+    "hum_range_24h": {
+      "mean": 2.1197479571710343,
+      "std": 3.2031795677673918
+    },
+    "temp_trend_6h": {
+      "mean": -0.028800366300366337,
+      "std": 1.295986592719195
+    },
+    "hum_trend_6h": {
+      "mean": 0.09585312764158921,
+      "std": 1.3203515283701253
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202210": {
+    "temperature": {
+      "mean": 34.6664735885372,
+      "std": 1.1541535282463362
+    },
+    "humidity": {
+      "mean": 66.21963234245794,
+      "std": 10.765049297765618
+    },
+    "temp_mean_24h": {
+      "mean": 33.50281694230882,
+      "std": 6.225967893210141
+    },
+    "temp_std_24h": {
+      "mean": 0.4937619721576754,
+      "std": 0.8371768258056015
+    },
+    "temp_min_24h": {
+      "mean": 32.41797754491017,
+      "std": 6.457159397461782
+    },
+    "temp_max_24h": {
+      "mean": 34.12704291417166,
+      "std": 6.3236992300444745
+    },
+    "temp_range_24h": {
+      "mean": 1.7090653692614768,
+      "std": 2.7910599695600102
+    },
+    "hum_mean_24h": {
+      "mean": 64.3971226375711,
+      "std": 15.515117185610421
+    },
+    "hum_std_24h": {
+      "mean": 2.8815751568523704,
+      "std": 2.207771510873255
+    },
+    "hum_min_24h": {
+      "mean": 58.918747005988024,
+      "std": 14.428454364349871
+    },
+    "hum_max_24h": {
+      "mean": 69.21707110778442,
+      "std": 16.19206954512842
+    },
+    "hum_range_24h": {
+      "mean": 10.298324101796407,
+      "std": 7.181684567884103
+    },
+    "temp_trend_6h": {
+      "mean": -0.005295409181636731,
+      "std": 1.3993921742195787
+    },
+    "hum_trend_6h": {
+      "mean": 0.17004690618762475,
+      "std": 4.578752536928308
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202211": {
+    "temperature": {
+      "mean": 34.52431505102041,
+      "std": 1.0343973324769826
+    },
+    "humidity": {
+      "mean": 64.36683822278911,
+      "std": 10.832658118424542
+    },
+    "temp_mean_24h": {
+      "mean": 33.36628837941752,
+      "std": 6.182879810081226
+    },
+    "temp_std_24h": {
+      "mean": 0.5262679440273151,
+      "std": 0.613634839302612
+    },
+    "temp_min_24h": {
+      "mean": 32.19575021258503,
+      "std": 6.192485026606165
+    },
+    "temp_max_24h": {
+      "mean": 34.07287103174603,
+      "std": 6.307684585270927
+    },
+    "temp_range_24h": {
+      "mean": 1.8771208191609967,
+      "std": 2.1088950599506413
+    },
+    "hum_mean_24h": {
+      "mean": 62.5357388987965,
+      "std": 15.419661784473226
+    },
+    "hum_std_24h": {
+      "mean": 2.535991756992039,
+      "std": 1.8963062866879261
+    },
+    "hum_min_24h": {
+      "mean": 58.12212351190477,
+      "std": 14.837902287852334
+    },
+    "hum_max_24h": {
+      "mean": 67.17443416950114,
+      "std": 16.025874186263813
+    },
+    "hum_range_24h": {
+      "mean": 9.052310657596374,
+      "std": 6.051102817509153
+    },
+    "temp_trend_6h": {
+      "mean": -0.016798611111111077,
+      "std": 1.1879504703185106
+    },
+    "hum_trend_6h": {
+      "mean": 0.14359275793650794,
+      "std": 3.693115440483687
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202212": {
+    "temperature": {
+      "mean": 35.08162147071217,
+      "std": 0.7695379096503269
+    },
+    "humidity": {
+      "mean": 49.969398756847866,
+      "std": 1.5770878194353468
+    },
+    "temp_mean_24h": {
+      "mean": 33.92946348122919,
+      "std": 6.238757727998877
+    },
+    "temp_std_24h": {
+      "mean": 0.35400919706194517,
+      "std": 0.5350554036785172
+    },
+    "temp_min_24h": {
+      "mean": 33.239044739429694,
+      "std": 6.279344968763335
+    },
+    "temp_max_24h": {
+      "mean": 34.514971976401185,
+      "std": 6.361467936838534
+    },
+    "temp_range_24h": {
+      "mean": 1.2759272369714854,
+      "std": 1.9559835985516247
+    },
+    "hum_mean_24h": {
+      "mean": 48.30566059242683,
+      "std": 8.926644803381754
+    },
+    "hum_std_24h": {
+      "mean": 0.5758809044519054,
+      "std": 0.8857713698857697
+    },
+    "hum_min_24h": {
+      "mean": 47.25370550639135,
+      "std": 8.931728154698678
+    },
+    "hum_max_24h": {
+      "mean": 49.30294781570446,
+      "std": 9.242245166431879
+    },
+    "hum_range_24h": {
+      "mean": 2.049242309313105,
+      "std": 3.378870076342152
+    },
+    "temp_trend_6h": {
+      "mean": -0.0231858407079646,
+      "std": 0.9045034714705099
+    },
+    "hum_trend_6h": {
+      "mean": 0.11772123893805307,
+      "std": 1.5047094417416669
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202213": {
+    "temperature": {
+      "mean": 35.30742252634891,
+      "std": 0.7047658666603381
+    },
+    "humidity": {
+      "mean": 59.528736696330256,
+      "std": 5.245116772387069
+    },
+    "temp_mean_24h": {
+      "mean": 34.109390911308495,
+      "std": 6.391688315001392
+    },
+    "temp_std_24h": {
+      "mean": 0.36316047978045773,
+      "std": 0.5192867648320413
+    },
+    "temp_min_24h": {
+      "mean": 33.371552147239264,
+      "std": 6.365421956593092
+    },
+    "temp_max_24h": {
+      "mean": 34.710369266725095,
+      "std": 6.55188896802552
+    },
+    "temp_range_24h": {
+      "mean": 1.3388171194858332,
+      "std": 1.9194478900137724
+    },
+    "hum_mean_24h": {
+      "mean": 57.43513983529681,
+      "std": 11.166212396508287
+    },
+    "hum_std_24h": {
+      "mean": 2.6448284067476084,
+      "std": 3.2668446310034236
+    },
+    "hum_min_24h": {
+      "mean": 53.05718784691791,
+      "std": 11.852278772575035
+    },
+    "hum_max_24h": {
+      "mean": 62.13393967280164,
+      "std": 12.48510438622689
+    },
+    "hum_range_24h": {
+      "mean": 9.07675182588373,
+      "std": 9.379605991454751
+    },
+    "temp_trend_6h": {
+      "mean": -0.043166666666666687,
+      "std": 0.8798027281182549
+    },
+    "hum_trend_6h": {
+      "mean": 0.4361615541922291,
+      "std": 5.239439838863387
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202214": {
+    "temperature": {
+      "mean": 32.40771024659864,
+      "std": 1.9675752453125015
+    },
+    "humidity": {
+      "mean": 46.74727954931973,
+      "std": 4.789501508133388
+    },
+    "temp_mean_24h": {
+      "mean": 30.715498895904425,
+      "std": 7.043684182555195
+    },
+    "temp_std_24h": {
+      "mean": 1.4152325471821914,
+      "std": 1.0373806093598867
+    },
+    "temp_min_24h": {
+      "mean": 28.664701636904763,
+      "std": 6.6830995563817925
+    },
+    "temp_max_24h": {
+      "mean": 32.94442198129252,
+      "std": 7.674205183744287
+    },
+    "temp_range_24h": {
+      "mean": 4.279720344387757,
+      "std": 2.7137475042822063
+    },
+    "hum_mean_24h": {
+      "mean": 44.76899984612885,
+      "std": 10.75670992876365
+    },
+    "hum_std_24h": {
+      "mean": 2.3797974348219313,
+      "std": 1.88099140373283
+    },
+    "hum_min_24h": {
+      "mean": 40.782860863095244,
+      "std": 9.664536962494019
+    },
+    "hum_max_24h": {
+      "mean": 48.61817038690476,
+      "std": 12.524929804493311
+    },
+    "hum_range_24h": {
+      "mean": 7.835309523809523,
+      "std": 5.899208266904254
+    },
+    "temp_trend_6h": {
+      "mean": -0.004404017857142871,
+      "std": 2.403509740229841
+    },
+    "hum_trend_6h": {
+      "mean": -0.5497693452380953,
+      "std": 3.8741660138832645
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202215": {
+    "temperature": {
+      "mean": 34.903914756944445,
+      "std": 0.5476374328358202
+    },
+    "humidity": {
+      "mean": 53.4161123263889,
+      "std": 2.977053251407713
+    },
+    "temp_mean_24h": {
+      "mean": 33.69260659614112,
+      "std": 6.3722146145769605
+    },
+    "temp_std_24h": {
+      "mean": 0.2598646784763812,
+      "std": 0.4137626808252258
+    },
+    "temp_min_24h": {
+      "mean": 33.06706145833333,
+      "std": 6.3707366618634325
+    },
+    "temp_max_24h": {
+      "mean": 34.059963368055556,
+      "std": 6.450429766024421
+    },
+    "temp_range_24h": {
+      "mean": 0.9929019097222221,
+      "std": 1.5210762190797629
+    },
+    "hum_mean_24h": {
+      "mean": 51.46531155145649,
+      "std": 10.109839501025295
+    },
+    "hum_std_24h": {
+      "mean": 0.6360300147141891,
+      "std": 0.7395806563591413
+    },
+    "hum_min_24h": {
+      "mean": 50.429745312499996,
+      "std": 10.14168924220484
+    },
+    "hum_max_24h": {
+      "mean": 52.59786822916666,
+      "std": 10.205438885274889
+    },
+    "hum_range_24h": {
+      "mean": 2.1681229166666656,
+      "std": 2.5606901108107856
+    },
+    "temp_trend_6h": {
+      "mean": -0.00039687499999998546,
+      "std": 0.6406986680252804
+    },
+    "hum_trend_6h": {
+      "mean": 0.11540781250000005,
+      "std": 1.2893599070127137
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "mspb_202216": {
+    "temperature": {
+      "mean": 34.82943713134801,
+      "std": 0.8248885383167162
+    },
+    "humidity": {
+      "mean": 53.33449136814847,
+      "std": 3.502244157465539
+    },
+    "temp_mean_24h": {
+      "mean": 33.643907263586016,
+      "std": 6.268684823628305
+    },
+    "temp_std_24h": {
+      "mean": 0.3958800104470999,
+      "std": 0.5178102545043659
+    },
+    "temp_min_24h": {
+      "mean": 32.87371701913394,
+      "std": 6.303482607360421
+    },
+    "temp_max_24h": {
+      "mean": 34.26279254783484,
+      "std": 6.379101505761313
+    },
+    "temp_range_24h": {
+      "mean": 1.389075528700905,
+      "std": 1.7773893179447546
+    },
+    "hum_mean_24h": {
+      "mean": 51.43871444631622,
+      "std": 10.051004247192555
+    },
+    "hum_std_24h": {
+      "mean": 0.8790985313021635,
+      "std": 1.1023374234516772
+    },
+    "hum_min_24h": {
+      "mean": 50.16114098690836,
+      "std": 9.862556556366975
+    },
+    "hum_max_24h": {
+      "mean": 52.9883229751115,
+      "std": 10.568617684459577
+    },
+    "hum_range_24h": {
+      "mean": 2.827181988203137,
+      "std": 3.476611438067337
+    },
+    "temp_trend_6h": {
+      "mean": 0.009361530715005013,
+      "std": 0.9846448345830117
+    },
+    "hum_trend_6h": {
+      "mean": -0.11129607250755284,
+      "std": 1.5657251940745247
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "urban_3627": {
+    "temperature": {
+      "mean": 33.45019446909198,
+      "std": 2.407103259218794
+    },
+    "humidity": {
+      "mean": 47.90712170955338,
+      "std": 4.859129128068711
+    },
+    "temp_mean_24h": {
+      "mean": 32.632920662189925,
+      "std": 5.387158762941881
+    },
+    "temp_std_24h": {
+      "mean": 1.0042457875826154,
+      "std": 0.8613305827124736
+    },
+    "temp_min_24h": {
+      "mean": 30.887899783101652,
+      "std": 5.819050108343574
+    },
+    "temp_max_24h": {
+      "mean": 34.197149413388544,
+      "std": 5.340495016315995
+    },
+    "temp_range_24h": {
+      "mean": 3.309249630286899,
+      "std": 2.820219483787476
+    },
+    "hum_mean_24h": {
+      "mean": 46.76846499461892,
+      "std": 8.423742062735482
+    },
+    "hum_std_24h": {
+      "mean": 1.603643634040022,
+      "std": 1.1135969574275242
+    },
+    "hum_min_24h": {
+      "mean": 44.33139440993788,
+      "std": 8.351730421756802
+    },
+    "hum_max_24h": {
+      "mean": 49.414758503401366,
+      "std": 8.71633763769888
+    },
+    "hum_range_24h": {
+      "mean": 5.083364093463472,
+      "std": 3.2394337664148405
+    },
+    "temp_trend_6h": {
+      "mean": 0.05150966183574879,
+      "std": 1.869872090632343
+    },
+    "hum_trend_6h": {
+      "mean": -0.006085231193926843,
+      "std": 2.214647673076411
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "urban_3629": {
+    "temperature": {
+      "mean": 32.9273597359736,
+      "std": 2.656998974553545
+    },
+    "humidity": {
+      "mean": 45.12088613861386,
+      "std": 4.766071539543398
+    },
+    "temp_mean_24h": {
+      "mean": 32.144519085190275,
+      "std": 5.362183927792815
+    },
+    "temp_std_24h": {
+      "mean": 0.9131383874371231,
+      "std": 0.7415353283524418
+    },
+    "temp_min_24h": {
+      "mean": 30.44640693069307,
+      "std": 5.750526732912153
+    },
+    "temp_max_24h": {
+      "mean": 33.5364201320132,
+      "std": 5.244145816865385
+    },
+    "temp_range_24h": {
+      "mean": 3.0900132013201316,
+      "std": 2.458132441895206
+    },
+    "hum_mean_24h": {
+      "mean": 44.11944463713316,
+      "std": 8.048791855150617
+    },
+    "hum_std_24h": {
+      "mean": 0.969743833575276,
+      "std": 0.679893923955675
+    },
+    "hum_min_24h": {
+      "mean": 42.63125775577557,
+      "std": 7.982149165419394
+    },
+    "hum_max_24h": {
+      "mean": 45.706208250825085,
+      "std": 8.139931118660854
+    },
+    "hum_range_24h": {
+      "mean": 3.074950495049505,
+      "std": 2.0027409106452745
+    },
+    "temp_trend_6h": {
+      "mean": 0.0566089108910891,
+      "std": 1.6521084455739437
+    },
+    "hum_trend_6h": {
+      "mean": 0.010896039603960392,
+      "std": 1.193168828411449
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "urban_3631": {
+    "temperature": {
+      "mean": 35.14417062634989,
+      "std": 0.17072842531446597
+    },
+    "humidity": {
+      "mean": 51.87577069834413,
+      "std": 2.580307473640744
+    },
+    "temp_mean_24h": {
+      "mean": 34.315100309109084,
+      "std": 5.360330405061449
+    },
+    "temp_std_24h": {
+      "mean": 0.10912853655984847,
+      "std": 0.0372538133450853
+    },
+    "temp_min_24h": {
+      "mean": 34.094110871130304,
+      "std": 5.3257402380589145
+    },
+    "temp_max_24h": {
+      "mean": 34.48900503959683,
+      "std": 5.38784093876722
+    },
+    "temp_range_24h": {
+      "mean": 0.3948941684665221,
+      "std": 0.13632786183862278
+    },
+    "hum_mean_24h": {
+      "mean": 50.699649008548015,
+      "std": 8.30152988606983
+    },
+    "hum_std_24h": {
+      "mean": 0.4205535273979309,
+      "std": 0.40611972808113345
+    },
+    "hum_min_24h": {
+      "mean": 50.04622426205903,
+      "std": 8.180430265469242
+    },
+    "hum_max_24h": {
+      "mean": 51.34447696184305,
+      "std": 8.41906756400348
+    },
+    "hum_range_24h": {
+      "mean": 1.2982526997840171,
+      "std": 1.1600438187212265
+    },
+    "temp_trend_6h": {
+      "mean": -0.0033045356371490153,
+      "std": 0.17907169068579448
+    },
+    "hum_trend_6h": {
+      "mean": -0.05341252699784014,
+      "std": 0.564673454517879
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "urban_3690": {
+    "temperature": {
+      "mean": 35.22362001352265,
+      "std": 0.1723138318569695
+    },
+    "humidity": {
+      "mean": 55.411365787694386,
+      "std": 2.1658520319613426
+    },
+    "temp_mean_24h": {
+      "mean": 34.437709179955654,
+      "std": 5.208410622434324
+    },
+    "temp_std_24h": {
+      "mean": 0.13354943155503513,
+      "std": 0.07505259741787858
+    },
+    "temp_min_24h": {
+      "mean": 34.13558958755917,
+      "std": 5.177463669591613
+    },
+    "temp_max_24h": {
+      "mean": 34.66665449628126,
+      "std": 5.244442250305484
+    },
+    "temp_range_24h": {
+      "mean": 0.53106490872211,
+      "std": 0.37595970549981145
+    },
+    "hum_mean_24h": {
+      "mean": 54.13153900152871,
+      "std": 8.44777126855249
+    },
+    "hum_std_24h": {
+      "mean": 0.4202388656965426,
+      "std": 0.2897294048288905
+    },
+    "hum_min_24h": {
+      "mean": 53.48069945909398,
+      "std": 8.394121459422491
+    },
+    "hum_max_24h": {
+      "mean": 54.79740669371197,
+      "std": 8.505971036481244
+    },
+    "hum_range_24h": {
+      "mean": 1.316707234617985,
+      "std": 0.8408722897684823
+    },
+    "temp_trend_6h": {
+      "mean": 0.00028904665314399836,
+      "std": 0.2292009390719626
+    },
+    "hum_trend_6h": {
+      "mean": 0.017423935091277855,
+      "std": 0.49429721276565786
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "urban_3691": {
+    "temperature": {
+      "mean": 35.17599529569892,
+      "std": 0.2375321795914423
+    },
+    "humidity": {
+      "mean": 55.29619018817204,
+      "std": 2.513274089296762
+    },
+    "temp_mean_24h": {
+      "mean": 34.40323000388275,
+      "std": 5.188843978296942
+    },
+    "temp_std_24h": {
+      "mean": 0.15336080645463007,
+      "std": 0.0697777624964033
+    },
+    "temp_min_24h": {
+      "mean": 34.15097647849463,
+      "std": 5.156895902755711
+    },
+    "temp_max_24h": {
+      "mean": 34.696066196236565,
+      "std": 5.2354507771320975
+    },
+    "temp_range_24h": {
+      "mean": 0.5450897177419365,
+      "std": 0.2846658510613855
+    },
+    "hum_mean_24h": {
+      "mean": 54.01040312385422,
+      "std": 8.497372903002598
+    },
+    "hum_std_24h": {
+      "mean": 0.41660578262886294,
+      "std": 0.30598480049732907
+    },
+    "hum_min_24h": {
+      "mean": 53.348651545698914,
+      "std": 8.457648438605755
+    },
+    "hum_max_24h": {
+      "mean": 54.66796001344087,
+      "std": 8.539554696716161
+    },
+    "hum_range_24h": {
+      "mean": 1.3193084677419358,
+      "std": 0.9141644860600823
+    },
+    "temp_trend_6h": {
+      "mean": -0.004819556451612895,
+      "std": 0.25481464815908034
+    },
+    "hum_trend_6h": {
+      "mean": 0.037815188172043046,
+      "std": 0.4931241823983565
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "urban_3692": {
+    "temperature": {
+      "mean": 33.8051659179395,
+      "std": 2.0268660140109893
+    },
+    "humidity": {
+      "mean": 53.30610272536688,
+      "std": 4.2120703716390056
+    },
+    "temp_mean_24h": {
+      "mean": 32.98433842813175,
+      "std": 5.356642222199171
+    },
+    "temp_std_24h": {
+      "mean": 0.7744958702723063,
+      "std": 0.810730531087284
+    },
+    "temp_min_24h": {
+      "mean": 31.810260307477293,
+      "std": 5.551676032518573
+    },
+    "temp_max_24h": {
+      "mean": 34.3401043226515,
+      "std": 5.389925825543007
+    },
+    "temp_range_24h": {
+      "mean": 2.5298440151742043,
+      "std": 2.495521530665473
+    },
+    "hum_mean_24h": {
+      "mean": 52.08221242234363,
+      "std": 8.758787000512653
+    },
+    "hum_std_24h": {
+      "mean": 1.6131842963222152,
+      "std": 1.7077834828851952
+    },
+    "hum_min_24h": {
+      "mean": 49.66151956673656,
+      "std": 8.440773527697655
+    },
+    "hum_max_24h": {
+      "mean": 54.75816247379455,
+      "std": 9.745772319947795
+    },
+    "hum_range_24h": {
+      "mean": 5.0966429070579995,
+      "std": 5.358711708645253
+    },
+    "temp_trend_6h": {
+      "mean": 0.04414570230607969,
+      "std": 1.555011523085998
+    },
+    "hum_trend_6h": {
+      "mean": -0.04319706498951783,
+      "std": 2.7923658025754543
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  },
+  "urban_3693": {
+    "temperature": {
+      "mean": 35.269753509770446,
+      "std": 0.23423580510098724
+    },
+    "humidity": {
+      "mean": 56.79334059002087,
+      "std": 2.3512497005941198
+    },
+    "temp_mean_24h": {
+      "mean": 34.497236554374,
+      "std": 5.170235900943816
+    },
+    "temp_std_24h": {
+      "mean": 0.17944165066758042,
+      "std": 0.07777104389739521
+    },
+    "temp_min_24h": {
+      "mean": 34.21342895086321,
+      "std": 5.133543107751452
+    },
+    "temp_max_24h": {
+      "mean": 34.83828419654714,
+      "std": 5.223027181469177
+    },
+    "temp_range_24h": {
+      "mean": 0.624855245683931,
+      "std": 0.3082407977633453
+    },
+    "hum_mean_24h": {
+      "mean": 55.527120191642844,
+      "std": 8.614180411139987
+    },
+    "hum_std_24h": {
+      "mean": 0.6074988509081533,
+      "std": 0.4016407225200801
+    },
+    "hum_min_24h": {
+      "mean": 54.55578713716563,
+      "std": 8.479223814474643
+    },
+    "hum_max_24h": {
+      "mean": 56.490205511288174,
+      "std": 8.751894882558792
+    },
+    "hum_range_24h": {
+      "mean": 1.9344183741225571,
+      "std": 1.144365296844089
+    },
+    "temp_trend_6h": {
+      "mean": -0.0005179282868525715,
+      "std": 0.2897756619486097
+    },
+    "hum_trend_6h": {
+      "mean": -0.020836653386454185,
+      "std": 0.7581881230983352
+    },
+    "co2": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_mean_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_std_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_min_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_max_24h": {
+      "mean": 0.0,
+      "std": 1.0
+    },
+    "co2_trend_6h": {
+      "mean": 0.0,
+      "std": 1.0
+    }
+  }
+}

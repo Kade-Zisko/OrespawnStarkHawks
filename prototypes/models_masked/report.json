@@ -1,0 +1,35 @@
+{
+  "model": "MaskedHiveNet MLP 20 -> 32 -> 16 -> 1",
+  "feature_cols": [
+    "temperature",
+    "humidity",
+    "temp_mean_24h",
+    "temp_std_24h",
+    "temp_min_24h",
+    "temp_max_24h",
+    "temp_range_24h",
+    "hum_mean_24h",
+    "hum_std_24h",
+    "hum_min_24h",
+    "hum_max_24h",
+    "hum_range_24h",
+    "temp_trend_6h",
+    "hum_trend_6h",
+    "co2",
+    "co2_mean_24h",
+    "co2_std_24h",
+    "co2_min_24h",
+    "co2_max_24h",
+    "co2_trend_6h"
+  ],
+  "dataset": {
+    "sources": [
+      "urban",
+      "mspb",
+      "kaggle"
+    ],
+    "n_train": 113290,
+    "n_test": 36403,
+    "n_features": 20
+  }
+}
