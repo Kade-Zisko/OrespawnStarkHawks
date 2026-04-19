@@ -1,0 +1,8 @@
+//arch = zynqmp; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader, destination_cpu = a53-0]C:\GithubRepos\OrespawnStarkHawks\Bee_670\export\Bee_670\sw\boot\fsbl.elf
+	[pmufw_image]C:\GithubRepos\OrespawnStarkHawks\Bee_670\export\Bee_670\sw\qemu\pmufw.elf
+	[destination_device = pl]C:\GithubRepos\OrespawnStarkHawks\app_component\_ide\bitstream\design_1_wrapper.bit
+	[destination_cpu = a53-0, exception_level = el-3]C:\GithubRepos\OrespawnStarkHawks\app_component\build\app_component.elf
+}

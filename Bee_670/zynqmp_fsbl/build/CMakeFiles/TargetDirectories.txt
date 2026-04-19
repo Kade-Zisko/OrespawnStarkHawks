@@ -1,0 +1,4 @@
+C:/GithubRepos/OrespawnStarkHawks/Bee_670/zynqmp_fsbl/build/CMakeFiles/fsbl.elf.dir
+C:/GithubRepos/OrespawnStarkHawks/Bee_670/zynqmp_fsbl/build/CMakeFiles/print_build_info.dir
+C:/GithubRepos/OrespawnStarkHawks/Bee_670/zynqmp_fsbl/build/CMakeFiles/edit_cache.dir
+C:/GithubRepos/OrespawnStarkHawks/Bee_670/zynqmp_fsbl/build/CMakeFiles/rebuild_cache.dir

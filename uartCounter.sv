@@ -1,28 +1,31 @@
-module uartCounter (
+
+module uartCounter #(
+    parameter int BAUD_RATE  = 9600,
+    parameter int FPGA_CLOCK = 100000000
+) (
     input logic CLK,
     input logic nRST,
-    input logic [31:0] baudRate,
-    input logic [31:0] FPGAclock,
-    output logic doAction
+    output logic doAction,
+    input logic sRST
 );
 
-logic [31:0] counter; // counter to keep track of clock cycles for baud rate timing
+logic [31:0] counter;
 
 always_ff @(posedge CLK, negedge nRST) begin
-    if (!nRST) begin
+    if (!nRST || sRST) begin
         doAction <= 0;
         counter <= 0;
     end else begin
-        if (counter >= (FPGAclock / baudRate)) begin
+        if (counter >= FPGA_CLOCK / BAUD_RATE) begin
+            doAction <= 0;
+            counter <= 0;
+        end else if (counter == (FPGA_CLOCK / BAUD_RATE) / 2) begin
             doAction <= 1;
-            counter <= 0; 
-        end else if (counter >= (FPGAclock / baudRate) * 2) begin
-            counter <= 0; 
+            counter <= counter + 1;
         end else begin
             doAction <= 0;
-            counter <= counter + 1; 
+            counter <= counter + 1;
         end
-        
     end
 end
 
